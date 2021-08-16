@@ -4,7 +4,7 @@ title: Syllabus
 order: 1
 ---
 
-![sample maps](/methods-in-spatial-research-fa2021//tutorials/assets/header_img_alt.png)
+![sample maps](/methods-in-spatial-research-fa2021/tutorials/assets/header_img_alt.png)
 
 From left:  
 [Dennis Wood. 2011. “Everything Sings: Maps for a Narrative Atlas” via Places Journal](https://placesjournal.org/article/everything-sings-maps-for-a-narrative-atlas/?cn-reloaded=1); 
