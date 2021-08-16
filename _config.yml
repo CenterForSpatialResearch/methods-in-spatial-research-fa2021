@@ -1,0 +1,22 @@
+# Setup
+title:               Methods in Spatial Research
+tagline:             'Spring 2021'
+description:         'Course webpage'
+url:                 https://centerforspatialresearch.github.io/
+baseurl:             '/methods-in-spatial-research-sp2021'
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:              Dare Brawley
+  url:               c4sr.columbia.edu  
+  email:             dare.brawley@columbia.edu
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version:             1.1.0
+google_analytics_id: #UA-XXXX-Y
