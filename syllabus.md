@@ -4,10 +4,10 @@ title: Syllabus
 order: 1
 ---
 
-<!-- ![sample maps](/methods-in-spatial-research-sp2021/public/header_img_alt.png)
+![sample maps](/methods-in-spatial-research-fa2021/public/header_img_alt.png)
 From left:  
 [Dennis Wood. 2011. “Everything Sings: Maps for a Narrative Atlas” via Places Journal](https://placesjournal.org/article/everything-sings-maps-for-a-narrative-atlas/?cn-reloaded=1); 
-Hans Haacke *Shapolsky et al. Manhattan Real Estate Holdings, a Real-Time Social System, as of May 1, 1971*. 1971; [Folder. *Italian Limes*. 2014](http://www.italianlimes.net) -->
+Hans Haacke *Shapolsky et al. Manhattan Real Estate Holdings, a Real-Time Social System, as of May 1, 1971*. 1971; [Folder. *Italian Limes*. 2014](http://www.italianlimes.net)
 
 # Syllabus
 
@@ -44,15 +44,15 @@ After completing the course participants will:
 | Week | Date |  Topic | Tutorial due |  Assignment due |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 1 | 9/10 | Introduction to Critical GIS + Spatial Data Types |  |   |
-| 2 | 9/17 |  Cartographic Projections + Mapping Existing Datasets | [Tutorial 1](/methods-in-spatial-research-sp2021/tutorials/tutorial01/) |    |
-| 3 | 9/24 |   Making Data From Observation & Sensing | [Tutorial 2](/methods-in-spatial-research-sp2021/tutorials/tutorial02/) |  [Assignment 1](/methods-in-spatial-research-sp2021/assignments/assignment01/)  |
-| 4 | 10/1 | Making Data from Archives | [Tutorial 3](/methods-in-spatial-research-sp2021/tutorials/tutorial03/) |  Assignment 2 |
-| 5 | 10/8 |  Making Data from Satellites | [Tutorial 4](/methods-in-spatial-research-sp2021/tutorials/tutorial04/) |  Assignment 3 |
-| 6 | 10/15 |  Maps & Narrative / Portfolio Presentations | [Tutorial 5a](/methods-in-spatial-research-sp2021/tutorials/tutorial05/) or [Tutorial 5b](/methods-in-spatial-research-sp2021/tutorials/tutorial05b/) |  [Assignment 4](/methods-in-spatial-research-sp2021/assignments/assignment04/) |
-| no class | 10/22 | [Portfolio Due](/methods-in-spatial-research-sp2021/assignments/portfolio/) | |
+| 2 | 9/17 |  Cartographic Projections + Mapping Existing Datasets | [Tutorial 1](/methods-in-spatial-research-fa2021/tutorials/tutorial01/) |    |
+| 3 | 9/24 |   Making Data From Observation & Sensing | [Tutorial 2](/methods-in-spatial-research-fa2021/tutorials/tutorial02/) |  [Assignment 1](/methods-in-spatial-research-fa2021/assignments/assignment01/)  |
+| 4 | 10/1 | Making Data from Archives | [Tutorial 3](/methods-in-spatial-research-fa2021/tutorials/tutorial03/) |  Assignment 2 |
+| 5 | 10/8 |  Making Data from Satellites | [Tutorial 4](/methods-in-spatial-research-fa2021/tutorials/tutorial04/) |  Assignment 3 |
+| 6 | 10/15 |  Maps & Narrative / Portfolio Presentations | [Tutorial 5a](/methods-in-spatial-research-fa2021/tutorials/tutorial05/) or [Tutorial 5b](/methods-in-spatial-research-fa2021/tutorials/tutorial05b/) |  [Assignment 4](/methods-in-spatial-research-fa2021/assignments/assignment04/) |
+| no class | 10/22 | [Portfolio Due](/methods-in-spatial-research-fa2021/assignments/portfolio/) | |
 
 ## Weekly Schedule, Readings, & Assignments
-All course tutorials and assignments will be posted [here](https://centerforspatialresearch.github.io/methods-in-spatial-research-sp2021/) on the course website.
+All course tutorials and assignments will be posted [here](https://centerforspatialresearch.github.io/methods-in-spatial-research-fa2021/) on the course website.
 All readings will be posted on the course [Google Drive folder](https://drive.google.com/drive/folders/1nOxjAfenbfmzo7-m6WHVHfGW7fsBt39r?usp=sharing) or made available via hyperlink below. 
 
 ### Week 1 | 9/10 | Introduction to Critical GIS + Spatial Data Types
@@ -150,13 +150,13 @@ Desimini, Jill, and Charles Waldheim. “Introduction: Projecting the Landscape 
 
 Please watch: [*In Plain Sight.* by Diller Scofidio + Renfro, Laura Kurgan, Robert Gerard Pietrusko with Columbia Center for Spatial Research at the 2018 U.S. Pavilion.](https://dsrny.com/project/in-plain-sight)
 
-Please read 2-3 map-based articles from the New York Times. [A list is included at the end of the precedents page here](/methods-in-spatial-research-sp2021/precedents/#new-york-times-graphics-department-map-forward-stories) (if you choose one that is not already on the list, please include a link in your discussion question post on Canvas). 
+Please read 2-3 map-based articles from the New York Times. [A list is included at the end of the precedents page here](/methods-in-spatial-research-fa2021/precedents/#new-york-times-graphics-department-map-forward-stories) (if you choose one that is not already on the list, please include a link in your discussion question post on Canvas). 
 
 - across these articles and when watching *In Plain Sight* try to focus on identifying the core narrative, and then on discerning *how* the narrative is being conveyed via the maps and other media used
 
 <!-- Mortenbock & Mooshammer. *Informal Market Worlds* [Selections] -->
 
-### 10/22 | no class | [Mapping Portfolio Due](/methods-in-spatial-research-sp2021/assignments/portfolio/)
+### 10/22 | no class | [Mapping Portfolio Due](/methods-in-spatial-research-fa2021/assignments/portfolio/)
 
 ## Requirements
 
