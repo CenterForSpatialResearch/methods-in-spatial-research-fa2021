@@ -21,25 +21,25 @@ Assigning that specificity has two parts - first, if we know the **projection** 
 
 Let's open up a copy of the Tutorial 2 map and save it in our project folder as `Tutorial3_MakingData`. We're going to shift our area of focus slightly and create data from a scanned map of Mott Haven in the South Bronx, so you can remove all the layers except the Stamen Toner base map. Zoom out slightly and pan the map across the river to the area shown below.
 
-![Tutorial 3 setup](/methods-in-spatial-research-sp2021/tutorials/assets/qgis_tut3start.png)
+![Tutorial 3 setup](/methods-in-spatial-research-fa2021/tutorials/assets/qgis_tut3start.png)
 
 Also find the `nypl_mott-haven.jpg` file in the Shared_Data folder and take a look. Before we can begin the process of aligning the image with our map environment, we'll also need to activate what QGIS calls its Georeferencer plugin by going to Plugins > Manage and Install Plugins... in the Menu Bar. Type "georeferencer" in the pop-up window's search bar, check the box and click Close.
 
-![Activate georeferencer plugin](/methods-in-spatial-research-sp2021/tutorials/assets/qgis_activate-georeferencer.png)
+![Activate georeferencer plugin](/methods-in-spatial-research-fa2021/tutorials/assets/qgis_activate-georeferencer.png)
 
 Maps of New York City from the 20th century will pretty much always use what we call the "New York State Plane" projection, which is also likely to work well for earlier surveyed maps. Change the projection of your map environment to "NAD83 / New York Long Island (ftUS)" or `EPSG:2263` via the projection icon in the Status Bar or through Project Properties.
 
-![Activate georeferencer plugin](/methods-in-spatial-research-sp2021/tutorials/assets/qgis_stateplane-projection.png)
+![Activate georeferencer plugin](/methods-in-spatial-research-fa2021/tutorials/assets/qgis_stateplane-projection.png)
 
 Finally, you can launch the Georeferencer via the menu bar under Raster > Georeferencer. A new window should appear. Click the "Add Raster" button at the upper left corner, and choose `nypl_mott-haven.jpg` from the file picker. Select the same `EPSG:2263` projection when prompted.
 
 The Georeferencer works by having you pick corresponding points on both the scanned image and the main qgis map environment. Since this workflow relies on switching back and forth between two windows, it's a good idea to place them side-by-side on your screen and try to adjust the orientation (and rotation) of your map environment to match the scan like so:
 
-![Georeferencing setup](/methods-in-spatial-research-sp2021/tutorials/assets/qgis_georeference-setup.png)
+![Georeferencing setup](/methods-in-spatial-research-fa2021/tutorials/assets/qgis_georeference-setup.png)
 
 Next click the green "Start Georeferencing" button and fill out the Transformation Settings window as shown, setting the output path to your "My_Data" folder:
 
-![qgis georeferencing settings](/methods-in-spatial-research-sp2021/tutorials/assets/qgis_georeference-transformation-settings.png)
+![qgis georeferencing settings](/methods-in-spatial-research-fa2021/tutorials/assets/qgis_georeference-transformation-settings.png)
 
 You may have already noticed but there are some pretty substantial differences between the scanned map and the present-day version. One of the challenges in georeferencing historical maps is identifying with confidence which map elements can be trusted to align properly with their contemporary counterparts. Luckily for us, the New York City street grid is relatively constant so let's start there.
 
@@ -47,13 +47,13 @@ In the Georeferencing window, use the "Add Point" tool on the toolbar (look for 
 
 Repeat this process until you have at least four reference points established (more is better!). Try to achieve a relatively even distribution of points across the space of the scanned map. If you're unsure of a point once it's been selected, you adjust its position with the Move GCP Point tool or simply delete it.
 
-![Activate georeferencer plugin](/methods-in-spatial-research-sp2021/tutorials/assets/qgis_georeference-pts.png)
+![Activate georeferencer plugin](/methods-in-spatial-research-fa2021/tutorials/assets/qgis_georeference-pts.png)
 
 Once you have enough points set, click the "Start Georeferencing" button again and a georeferenced raster version of your scanned map will be created and added to the project. Note that the plugin also provides a toolbar button and menu item to "Save GCP Points" - if you have several versions of the same paper map (scanned at the same resolution) you can use this functionality to recycle georeferencing settings each time you import a new sheet.
 
 You can check your results by adjusting the transparency of the new layer like we did in Tutorial 1. Getting a good result can be time-consuming, but you can usually get something decent without too much work.
 
-![results](/methods-in-spatial-research-sp2021/tutorials/assets/qgis_georeference-result.png)
+![results](/methods-in-spatial-research-fa2021/tutorials/assets/qgis_georeference-result.png)
 
 ## Digitizing Vector Features from a Georectified Map
 
@@ -61,13 +61,13 @@ Next we'll look at how to capture individual features based on our scanned, geor
 
 Start by turning the layer opacity back to 100%. Next, make sure you have the Digitizing Toolbar present somewhere in your interface. It looks like this:
 
-![results](/methods-in-spatial-research-sp2021/tutorials/assets/qgis_digitizing-toolbar.png)
+![results](/methods-in-spatial-research-fa2021/tutorials/assets/qgis_digitizing-toolbar.png)
 
 Creating new features one-by-one can be very time-consuming, but often it's the only way to get the data you need. Here we'll go through the basic steps needed to create new data in this way - you'll then be able to practice these new skills as you start collecting data for the final project.
 
 The first step in creating a new dataset is to make a new vector layer for your features to live in. From the Menu Bar, choose "Layer > Create Layer > New Shapefile Layer...". You'll be prompted for a filename, data type and projection for the dataset as a whole, followed by a panel where you can specify the attribute fields you want in the dataset. For our exercise, we'll digitize a few of the buildings on the historic maps using a data structure like this: 
 
-![results](/methods-in-spatial-research-sp2021/tutorials/assets/qgis_digitize-newlayer.png)
+![results](/methods-in-spatial-research-fa2021/tutorials/assets/qgis_digitize-newlayer.png)
 
 Note that the path to the new shapefile is in the My_Data folder, we're using a Polygon data type with text fields for a `name` and `note` for each feature. When you click OK, the new empty layer will be created and added to your project.  
 
@@ -75,13 +75,13 @@ Now, click on the newly created layer to activate it and then click the "Toggle 
 
 Zoom in so that one of the buildings on the scanned map takes up most of the screen, select the Add Polygon Feature tool and begin clicking points on the map to draw the polygon. You'll see a preview of the polygon show up in red as you draw. Once all points are selected, right-click anywhere on the map to finish drawing. You'll see a dialog appear where you'll be able to enter attribute information for the feature, which will be created when you click OK.
 
-![new feature](/methods-in-spatial-research-sp2021/tutorials/assets/qgis_digitize-newfeature.png)
+![new feature](/methods-in-spatial-research-fa2021/tutorials/assets/qgis_digitize-newfeature.png)
 
 You can create as many features as needed by repeating this process. It's good practice to periodically "Save Layer Edits" in the Digitizing Toolbar. When you're done, click the Toggle Editing button again to save any outstanding edits and exit edit mode. Following the general pattern where QGIS operates on linked data, every time you save edits, the shapefile you created above will be updated directly. If you were using a remote data source, each "Save Layer Edits" operation would post these changes to the database.
 
 One last feature worth mentioning that can help with the digitizing process is QGIS's Snapping Options. Access these from the Menu Bar under Project > Snapping Options. The settings here will allow you to specify where you want your cursor to 'snap' when picking points in the digitizer. The options panel will let you turn snapping on or off, which layers should trigger snaps, which kind of snapping to apply (vertex, segment or both - intersections are a separate option to the right) and a distance tolerance in either map units or screen units. Experiment with these options, sometimes they can be extremely helpful.
 
-![new feature](/methods-in-spatial-research-sp2021/tutorials/assets/qgis_digitized-bldgs.png)
+![new feature](/methods-in-spatial-research-fa2021/tutorials/assets/qgis_digitized-bldgs.png)
 
 ### Tutorial Deliverable: 
 

@@ -218,6 +218,6 @@ ________________________________________________________________________________
 Guide written by Dare Brawley based on tools used in producing *[In Plain Sight](https://c4sr.columbia.edu/projects/plain-sight)*, an installation for the 16th International Architecture Exhibition of La Biennale di Venezia in 2018.
 
 
-[grid of satellite images]:/methods-in-spatial-research-sp2021/tutorials/assets/tutorial05/satellite_grids_01.png
+[grid of satellite images]:/methods-in-spatial-research-fa2021/tutorials/assets/tutorial05/satellite_grids_01.png
 
-[diagram process]:/methods-in-spatial-research-sp2021/tutorials/assets/tutorial05/satellite_grids_explained.png
+[diagram process]:/methods-in-spatial-research-fa2021/tutorials/assets/tutorial05/satellite_grids_explained.png

@@ -59,7 +59,7 @@ At this stage, you should:
           -  `git push`  
 9. view the result on your online github repository (the url should be `github.com/yourusername/webmap_1`) github page (the url should be `yourgithubusername.github.io/webmap_1` but you can also find this in the settings of the repository you created on github). You should see something like this:  
 
-![initial webpage](/methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_21.png)
+![initial webpage](/methods-in-spatial-research-fa2021/tutorials/assets/webmap_1_21.png)
 
 ## A web page
 
@@ -597,7 +597,7 @@ map.on('mouseleave', 'trees', function() {
 
 Now you should see a popup appear with the tree's species name whenever you click a tree on the map. Clicking another tree or clicking the 'x' on the popup should make the last popup disappear. Not bad for a couple lines of code. Notice that we can also control the appearance of the cursor to give the user a hint that some kind of interactivity is now built into the tree symbols. Thanks to the features in the library, we're able to do a surprising amount of work with just a couple of lines of code.
 
-![Street trees with popup tags](/methods-in-spatial-research-sp2021/tutorials/assets/mapboxgl_popup.png)
+![Street trees with popup tags](/methods-in-spatial-research-fa2021/tutorials/assets/mapboxgl_popup.png)
 
 ## Other Mapbox GL Examples
 
@@ -622,25 +622,25 @@ Adapted from tutorial written by Brian House for Mapping for Architecture, Urban
 
 
 
-[DIRECTORY]: /methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_01.png
-[HELLOWORLD]: /methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_02.png
-[WORLDMAP]: /methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_03.png
-[3DMAP]: /methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_04.png
-[CONTROLS]: /methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_05.png
-[GEOLOCATE]: /methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_06.png
-[COORDINATES]: /methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_07.png
-[INFO]: /methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_08.png
-[MARKER]: /methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_09.png
-[IMAGE]: /methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_10.png
-[MULTI]: /methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_11.png
-[TOKEN]: /methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_2-1.png
-[TREES]: /methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_12.png
-[BUILDINGS]: /methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_13.png
-[NYPL]: /methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_14.png
-[NYPL-1879]: /methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_15.png
-[ORDERED]: /methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_16.png
-[EXTENTS]:/methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_17.png
-[NYPL2]: /methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_18.png
-[REPO]: /methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_19.png
-[FOLDER]: /methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_20.png
-[WEB]: /methods-in-spatial-research-sp2021/tutorials/assets/webmap_1_21.png
+[DIRECTORY]: /methods-in-spatial-research-fa2021/tutorials/assets/webmap_1_01.png
+[HELLOWORLD]: /methods-in-spatial-research-fa2021/tutorials/assets/webmap_1_02.png
+[WORLDMAP]: /methods-in-spatial-research-fa2021/tutorials/assets/webmap_1_03.png
+[3DMAP]: /methods-in-spatial-research-fa2021/tutorials/assets/webmap_1_04.png
+[CONTROLS]: /methods-in-spatial-research-fa2021/tutorials/assets/webmap_1_05.png
+[GEOLOCATE]: /methods-in-spatial-research-fa2021/tutorials/assets/webmap_1_06.png
+[COORDINATES]: /methods-in-spatial-research-fa2021/tutorials/assets/webmap_1_07.png
+[INFO]: /methods-in-spatial-research-fa2021/tutorials/assets/webmap_1_08.png
+[MARKER]: /methods-in-spatial-research-fa2021/tutorials/assets/webmap_1_09.png
+[IMAGE]: /methods-in-spatial-research-fa2021/tutorials/assets/webmap_1_10.png
+[MULTI]: /methods-in-spatial-research-fa2021/tutorials/assets/webmap_1_11.png
+[TOKEN]: /methods-in-spatial-research-fa2021/tutorials/assets/webmap_1_2-1.png
+[TREES]: /methods-in-spatial-research-fa2021/tutorials/assets/webmap_1_12.png
+[BUILDINGS]: /methods-in-spatial-research-fa2021/tutorials/assets/webmap_1_13.png
+[NYPL]: /methods-in-spatial-research-fa2021/tutorials/assets/webmap_1_14.png
+[NYPL-1879]: /methods-in-spatial-research-fa2021/tutorials/assets/webmap_1_15.png
+[ORDERED]: /methods-in-spatial-research-fa2021/tutorials/assets/webmap_1_16.png
+[EXTENTS]:/methods-in-spatial-research-fa2021/tutorials/assets/webmap_1_17.png
+[NYPL2]: /methods-in-spatial-research-fa2021/tutorials/assets/webmap_1_18.png
+[REPO]: /methods-in-spatial-research-fa2021/tutorials/assets/webmap_1_19.png
+[FOLDER]: /methods-in-spatial-research-fa2021/tutorials/assets/webmap_1_20.png
+[WEB]: /methods-in-spatial-research-fa2021/tutorials/assets/webmap_1_21.png

@@ -145,20 +145,20 @@ You have now downloaded and prepped census data to work with!
 
 
 ---
-[01]: /methods-in-spatial-research-sp2021/tutorials/assets/resources_img/01.png
-[02]: /methods-in-spatial-research-sp2021/tutorials/assets/resources_img/02.png
-[03]: /methods-in-spatial-research-sp2021/tutorials/assets/resources_img/03.png
-[04]: /methods-in-spatial-research-sp2021/tutorials/assets/resources_img/04.png
-[05]: /methods-in-spatial-research-sp2021/tutorials/assets/resources_img/05.png
-[06]: /methods-in-spatial-research-sp2021/tutorials/assets/resources_img/06.png
-[07]: /methods-in-spatial-research-sp2021/tutorials/assets/resources_img/07.png
-[08]: /methods-in-spatial-research-sp2021/tutorials/assets/resources_img/08.png
-[09]: /methods-in-spatial-research-sp2021/tutorials/assets/resources_img/09.png
-[10]: /methods-in-spatial-research-sp2021/tutorials/assets/resources_img/10.png
-[11]: /methods-in-spatial-research-sp2021/tutorials/assets/resources_img/11.png
-[12]: /methods-in-spatial-research-sp2021/tutorials/assets/resources_img/12.png
-[13]: /methods-in-spatial-research-sp2021/tutorials/assets/resources_img/13.png
-[14]: /methods-in-spatial-research-sp2021/tutorials/assets/resources_img/14.png
-[15]: /methods-in-spatial-research-sp2021/tutorials/assets/resources_img/15.png
-[16]: /methods-in-spatial-research-sp2021/tutorials/assets/resources_img/16.gif
-[17]: /methods-in-spatial-research-sp2021/tutorials/assets/resources_img/17.png
+[01]: /methods-in-spatial-research-fa2021/tutorials/assets/resources_img/01.png
+[02]: /methods-in-spatial-research-fa2021/tutorials/assets/resources_img/02.png
+[03]: /methods-in-spatial-research-fa2021/tutorials/assets/resources_img/03.png
+[04]: /methods-in-spatial-research-fa2021/tutorials/assets/resources_img/04.png
+[05]: /methods-in-spatial-research-fa2021/tutorials/assets/resources_img/05.png
+[06]: /methods-in-spatial-research-fa2021/tutorials/assets/resources_img/06.png
+[07]: /methods-in-spatial-research-fa2021/tutorials/assets/resources_img/07.png
+[08]: /methods-in-spatial-research-fa2021/tutorials/assets/resources_img/08.png
+[09]: /methods-in-spatial-research-fa2021/tutorials/assets/resources_img/09.png
+[10]: /methods-in-spatial-research-fa2021/tutorials/assets/resources_img/10.png
+[11]: /methods-in-spatial-research-fa2021/tutorials/assets/resources_img/11.png
+[12]: /methods-in-spatial-research-fa2021/tutorials/assets/resources_img/12.png
+[13]: /methods-in-spatial-research-fa2021/tutorials/assets/resources_img/13.png
+[14]: /methods-in-spatial-research-fa2021/tutorials/assets/resources_img/14.png
+[15]: /methods-in-spatial-research-fa2021/tutorials/assets/resources_img/15.png
+[16]: /methods-in-spatial-research-fa2021/tutorials/assets/resources_img/16.gif
+[17]: /methods-in-spatial-research-fa2021/tutorials/assets/resources_img/17.png

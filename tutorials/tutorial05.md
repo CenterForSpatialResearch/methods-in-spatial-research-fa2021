@@ -119,7 +119,7 @@ This tool tells the program which band it should map to the red, green, or blue 
 
 Note: to make the image appear more saturated zoom in to a bright-ish area of the image and then click the `Local cumulative cut stretch` button (circled in yellow above)
 
-Further information about band combinations and the kinds of phenomena they make visible can be found [here](/methods-in-spatial-research-sp2021/tutorials/assets/resources/LandsatBandInformation_Berkeley.pdf). Take a look through this document and try out combinations that are interesting to you.
+Further information about band combinations and the kinds of phenomena they make visible can be found [here](/methods-in-spatial-research-fa2021/tutorials/assets/resources/LandsatBandInformation_Berkeley.pdf). Take a look through this document and try out combinations that are interesting to you.
 
 A color composite using `3-2-1` for a 'natural color' image:  
 
@@ -151,19 +151,19 @@ Upload a screenshot of your false color composite to Canvas.
 Tutorial by Dare Brawley, Spring 2021
 
 
-[satellite12a]: /methods-in-spatial-research-sp2021/tutorials/assets/tutorial05/satellite12.png
-[spectrum]: /methods-in-spatial-research-sp2021/tutorials/assets/tutorial05/Landsat8_SpectralBands.jpg
-[compare]: /methods-in-spatial-research-sp2021/tutorials/assets/tutorial05/satellite13.png
-[coordinates]: /methods-in-spatial-research-sp2021/tutorials/assets/tutorial05/satellite001.png
-[datasets]: /methods-in-spatial-research-sp2021/tutorials/assets/tutorial05/satellite002.png
-[install]: /methods-in-spatial-research-sp2021/tutorials/assets/tutorial05/Satellite01.png
-[dock]: /methods-in-spatial-research-sp2021/tutorials/assets/tutorial05/satellite02.png
-[Preprocessing]: /methods-in-spatial-research-sp2021/tutorials/assets/tutorial05/satellite04.png
-[Bandlist]: /methods-in-spatial-research-sp2021/tutorials/assets/tutorial05/satellite06.png
+[satellite12a]: /methods-in-spatial-research-fa2021/tutorials/assets/tutorial05/satellite12.png
+[spectrum]: /methods-in-spatial-research-fa2021/tutorials/assets/tutorial05/Landsat8_SpectralBands.jpg
+[compare]: /methods-in-spatial-research-fa2021/tutorials/assets/tutorial05/satellite13.png
+[coordinates]: /methods-in-spatial-research-fa2021/tutorials/assets/tutorial05/satellite001.png
+[datasets]: /methods-in-spatial-research-fa2021/tutorials/assets/tutorial05/satellite002.png
+[install]: /methods-in-spatial-research-fa2021/tutorials/assets/tutorial05/Satellite01.png
+[dock]: /methods-in-spatial-research-fa2021/tutorials/assets/tutorial05/satellite02.png
+[Preprocessing]: /methods-in-spatial-research-fa2021/tutorials/assets/tutorial05/satellite04.png
+[Bandlist]: /methods-in-spatial-research-fa2021/tutorials/assets/tutorial05/satellite06.png
 
 
-[RGB]: /methods-in-spatial-research-sp2021/tutorials/assets/tutorial05/satellite05.png
-[natural]: /methods-in-spatial-research-sp2021/tutorials/assets/tutorial05/satellite09.png
-[435]: /methods-in-spatial-research-sp2021/tutorials/assets/tutorial05/satellite14.png
-[infrared]: /methods-in-spatial-research-sp2021/tutorials/assets/tutorial05/satellite10.png
-[download]: /methods-in-spatial-research-sp2021/tutorials/assets/tutorial05/satellite003.png
+[RGB]: /methods-in-spatial-research-fa2021/tutorials/assets/tutorial05/satellite05.png
+[natural]: /methods-in-spatial-research-fa2021/tutorials/assets/tutorial05/satellite09.png
+[435]: /methods-in-spatial-research-fa2021/tutorials/assets/tutorial05/satellite14.png
+[infrared]: /methods-in-spatial-research-fa2021/tutorials/assets/tutorial05/satellite10.png
+[download]: /methods-in-spatial-research-fa2021/tutorials/assets/tutorial05/satellite003.png
