@@ -1,9 +1,9 @@
 # Setup
 title:               Methods in Spatial Research
-tagline:             'Spring 2021'
+tagline:             'Fall 2021'
 description:         'Course webpage'
 url:                 https://centerforspatialresearch.github.io/
-baseurl:             '/methods-in-spatial-research-sp2021'
+baseurl:             '/methods-in-spatial-research-sfa021'
 paginate:            5
 permalink:           pretty
 
