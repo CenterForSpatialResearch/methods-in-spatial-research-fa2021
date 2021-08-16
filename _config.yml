@@ -2,8 +2,8 @@
 title:               Methods in Spatial Research
 tagline:             'Fall 2021'
 description:         'Course webpage'
-url:                 https://centerforspatialresearch.github.io/
-baseurl:             'methods-in-spatial-research-fa2021/'
+url:                 https://centerforspatialresearch.github.io
+baseurl:             '/methods-in-spatial-research-fa2021/'
 paginate:            5
 permalink:           pretty
 
