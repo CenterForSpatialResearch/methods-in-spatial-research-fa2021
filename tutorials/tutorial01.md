@@ -21,7 +21,7 @@ Download the 'Shared_Data' folder from the [workshop google drive](https://drive
 
 ## The QGIS Interface
 
-![qgis blank screen on first open](/methods-in-spatial-research-sp2021/tutorials/assets/qgis_firstopen.png)
+![qgis blank screen on first open](/methods-in-spatial-research-fa2021/tutorials/assets/qgis_firstopen.png)
 
 When you first launch QGIS, it opens a new blank map project as illustrated in the screenshot above. The following list outlines the most important interface elements:
 
@@ -40,11 +40,11 @@ Once you're familiar with the standard interface layout, you may want to customi
 
 Before beginning a new project, **Save** your (empty) tutorial file in the project folder you set up earlier. Like most programs, QGIS lets you save either with Ctrl-S, a toolbar button (look for the blue floppy disk) or through the Menu Bar (Project > Save). Name the file `Tutorial1_GettingStarted`. The `.qgz` extension for QGIS files will be added to your filename automatically.
 
-![qgis recent projects list](/methods-in-spatial-research-sp2021/tutorials/assets/qgis_recentprojects.png)
+![qgis recent projects list](/methods-in-spatial-research-fa2021/tutorials/assets/qgis_recentprojects.png)
 
 Quit and relaunch QGIS. This time, instead of a new empty project you should see a list of Recent Projects in the Map View. Double-click to reopen your tutorial file. Notice that your project folder has now been added to to the Brower Panel, shown with a green folder icon as "Project Home". If you expand the folder, you should see your "My_Data" and "Shared_Data" folders along with your tutorial file.
 
-![qgis project home folder](/methods-in-spatial-research-sp2021/tutorials/assets/qgis_projecthome.png)
+![qgis project home folder](/methods-in-spatial-research-fa2021/tutorials/assets/qgis_projecthome.png)
 
 ## Adding Data
 
@@ -72,11 +72,11 @@ In the Browser Panel, right-click "XYZ Tiles" and select "New Connection". Give 
 
 Now you should see an entry for Stamen Toner appear under XYZ Tiles when expanded. Click and drag this service into your Layers Panel or Map View and you'll see something like the image below. Notice how the map redraws at specific zoom levels, revealing or removing detail.
 
-![qgis view with data from tileserver](/methods-in-spatial-research-sp2021/tutorials/assets/qgis_tilelayer.png)
+![qgis view with data from tileserver](/methods-in-spatial-research-fa2021/tutorials/assets/qgis_tilelayer.png)
 
 The data we get from the tileserver is **raster data**. This means the area shown in our map is continuously covered with an even grid of pixel-like **cells**, each one enclosing a discrete unit of geographic space. Each raster cell in the Toner tile set is colored either black or white. Try changing the zoom level of the map using the scroll wheel on your mouse or using the tools in the Zoom toolbar. As we jump between zoom levels, the tile server sends down new raster tiles with varying spatial resolutions; when we zoom in, each cell represents a smaller and smaller portion of the territory.
 
-![raster tileserver zoom levels](/methods-in-spatial-research-sp2021/tutorials/assets/raster_tileserverzoom.png)
+![raster tileserver zoom levels](/methods-in-spatial-research-fa2021/tutorials/assets/raster_tileserverzoom.png)
 
 ### Raster Layers from TIFF
 
@@ -86,11 +86,11 @@ To add the file to your map, navigate to `Project Home/Shared_Data/raster` in th
 
 Right-click the newly added layer and select "Zoom to Layer". This will show the TIFF file superimposed on our base map.
 
-![qgis view with data from tiff file](/methods-in-spatial-research-sp2021/tutorials/assets/qgis_tiffrasterlayer.png)
+![qgis view with data from tiff file](/methods-in-spatial-research-fa2021/tutorials/assets/qgis_tiffrasterlayer.png)
 
 Notice that when we change zoom levels this layer stays the same. Each cell in the raster grid corresponds to the same geographic region (about 1 square foot) regardless of zoom level.
 
-![raster tileserver zoom levels](/methods-in-spatial-research-sp2021/tutorials/assets/raster_staticlayerzoom.png)
+![raster tileserver zoom levels](/methods-in-spatial-research-fa2021/tutorials/assets/raster_staticlayerzoom.png)
 
 Try turning a layer off and on again using the checkboxes in the Layers Panel.
 
@@ -100,7 +100,7 @@ Try turning a layer off and on again using the checkboxes in the Layers Panel.
 
 In your file browser (Finder, if you're on a Mac; File Explorer on Windows), navigate to `Shared_Data/Vector/nyc_harlemriverstreettrees` within your project folder. Inside you'll find six files with the same name but different extensions.
 
-![shapefile in finder view](/methods-in-spatial-research-sp2021/tutorials/assets/vector_shapefileinfinder.png)
+![shapefile in finder view](/methods-in-spatial-research-fa2021/tutorials/assets/vector_shapefileinfinder.png)
 
 In the ESRI Shapefile format, one way of storing vector data, this collection of files is referred to (confusingly) as a shapefile. While it's enclosed within a folder here for clarity and convenience, this will not always be the case. However, all parts of the shapefile must be stored within the same folder to function properly. The different files we see here each play different roles in describing the data, as outlined below:
 
@@ -113,11 +113,11 @@ In the ESRI Shapefile format, one way of storing vector data, this collection of
 
 If you navigate to this same location in the QGIS Browser Panel, you'll see that it displays only one item of the six, with a blue blob icon to the left indicating it is a vector data file.
 
-![shapefile in qgis browser view](/methods-in-spatial-research-sp2021/tutorials/assets/vector_shapefileinbrowser.png)
+![shapefile in qgis browser view](/methods-in-spatial-research-fa2021/tutorials/assets/vector_shapefileinbrowser.png)
 
 To add a vector layer to your project, simply drag the displayed shapefile into your Layers Panel or Map View. Let's add this shapefile (of street trees in our project area, obtained from the 2015 NYC Street Tree Census) to the map. You can also use Layer > Add Layer > Add Vector Layer on the Menu Bar, or the Add Vector Layer button in the Manage Layers Toolbar (not visible by default). You should now see three layers in your project:
 
-![shapefile added to qgis](/methods-in-spatial-research-sp2021/tutorials/assets/qgis_shapefileadded.png)
+![shapefile added to qgis](/methods-in-spatial-research-fa2021/tutorials/assets/qgis_shapefileadded.png)
 
 Try reordering your layers in the Layers Panel by dragging the street trees layer up or down the list and then put them back in order.
 
@@ -125,15 +125,15 @@ Try reordering your layers in the Layers Panel by dragging the street trees laye
 
 If you find yourself thinking shapefiles seem too complicated and messy, you're not alone! As more and more spatial data has been published and shared online, people have recognized the need for a more portable format for vector data. [GeoJSON](https://en.wikipedia.org/wiki/GeoJSON) is a standard format for spatial data defined and administered by a community of users. Its main advantage over the shapefile is that it encodes geometry, attributes, indexes, projections, metadata and more **within a single file**. In practice, GeoJSON and Shapefiles are interchangeable, but GeoJSON is much easier to manage because the user has only one file per layer to worry about. Adding a vector layer from GeoJSON works the same way, just drag the file into your Layer Panel or Map View from the Browser or another location on your computer. Try it with the `nyc_harlemriverbldgs.geojson` file under `Shared_Data/vector`.
 
-![geojson added to qgis](/methods-in-spatial-research-sp2021/tutorials/assets/qgis_geojsonadded.png)
+![geojson added to qgis](/methods-in-spatial-research-fa2021/tutorials/assets/qgis_geojsonadded.png)
 
 In the "Rotation" field in the Status Bar (bottom of the screen), enter "-28.7" to set your view to match the orientation of the Manhattan street grid. Pan and zoom your map so that the blocks between 125th and 128th Streets and Park and 5th Avenue are visible. You can Pan using the Pan tool in the Map Navigation Toolbar, or by clicking and dragging the scroll wheel on your mouse.
 
-![pan and zoom to 125th and Park](/methods-in-spatial-research-sp2021/tutorials/assets/qgis_panandzoom.png)
+![pan and zoom to 125th and Park](/methods-in-spatial-research-fa2021/tutorials/assets/qgis_panandzoom.png)
 
 QGIS allows you to **bookmark** a region on your map for later reference by pressing Cmd-B on your keyboard, clicking the New Bookmark button on the Map Navigation Toolbar, or selecting View > New Bookmark from the Menu Bar. Create a bookmark for the map view you just set up. The Spatial Bookmarks Panel will automatically be added to the interface. To restore a bookmark, select it here and press Zoom to Bookmark at the top of the Panel.
 
-![qgis bookmark panel](/methods-in-spatial-research-sp2021/tutorials/assets/qgis_bookmarkpanel.png)
+![qgis bookmark panel](/methods-in-spatial-research-fa2021/tutorials/assets/qgis_bookmarkpanel.png)
 
 Now that all of your data has been added to the map, save the file.
 
@@ -143,25 +143,25 @@ An important advantage of vector data is that each feature can be associated wit
 
 One way to see the attributes for a given feature is using the Identify Features tool at the left side of the the Attributes Toolbar.
 
-![qgis attributes toolbar](/methods-in-spatial-research-sp2021/tutorials/assets/qgis_attributestoolbar.png)
+![qgis attributes toolbar](/methods-in-spatial-research-fa2021/tutorials/assets/qgis_attributestoolbar.png)
 
 Turn off the two raster layers in your map. Click the street trees layer to select it. Then, with the Identify Features tool selected, click one of the points in the layer. The Identify Results Panel will appear with information about the point you've selected:
 
-![qgis identify features](/methods-in-spatial-research-sp2021/tutorials/assets/qgis_identifyfeatures.png)
+![qgis identify features](/methods-in-spatial-research-fa2021/tutorials/assets/qgis_identifyfeatures.png)
 
 You'll see that this particular tree is a Honey Locust, in good health, and has been given assigned a `tree_id` of 40945. No problems!
 
 If you want to see the attributes for multiple features at a time, you can use the **attribute table**. It can be accessed by right-clicking any vector layer, and picking "Open Attribute Table" from the menu. Let's try it with our building footprints layer:
 
-![open attribute table](/methods-in-spatial-research-sp2021/tutorials/assets/qgis_openattributetable.png)
+![open attribute table](/methods-in-spatial-research-fa2021/tutorials/assets/qgis_openattributetable.png)
 
 Inside the attribute table, you'll see a list of rows, each corresponding to a feature. **Fields** containing different types of attribute data are displayed as columns. Here, we have things like construction year, roof and ground heights, and geometry source. You can click any field name to sort features on that field. Clicking the row number will **select** a single feature, you can also select multiple features by holding cmd or shift while clicking. Features selected in the attribute table can be located in the map view by clicking the "Zoom the map to selected rows" button, located near the middle of the attribute table's toolbar. To reduce clutter in the interface, you can dock the attribute table by pressing the Dock Attribute Table button, second from the right in the same toolbar.
 
-![open attribute table](/methods-in-spatial-research-sp2021/tutorials/assets/qgis_attributetable.png)
+![open attribute table](/methods-in-spatial-research-fa2021/tutorials/assets/qgis_attributetable.png)
 
 At any given time, the features selected in the attribute table and the map view will be the same. You can control the selection in the attribute table in addition to selecting features directly from the map, using the selection tools in the attributes toolbar. "Select features by area or single click", near the middle of the toolbar, is the default option. Use this to select some buildings on the map. At first, you may not see any changes reflected in the attribute table, but you can use the "Move Selection to Top" button in the attribute table toolbar to make sure selected features are always shown in the top rows of the table.
 
-![selected features from map](/methods-in-spatial-research-sp2021/tutorials/assets/qgis_selectionmap.png)
+![selected features from map](/methods-in-spatial-research-fa2021/tutorials/assets/qgis_selectionmap.png)
 
 **Deselect** any selected features using the " button (either in the attributes toolbar or the attribute table toolbar). Use your bookmark to restore your earlier view, turn on the two raster layers again, and close the attribute table.
 
@@ -175,7 +175,7 @@ In QGIS, the appearance of each layer is controlled through the Layer Properties
 
 First, let's change the appearance of our street trees layer. Access the Layer Properties and then click the "Symbology" tab.
 
-![single symbol for points](/methods-in-spatial-research-sp2021/tutorials/assets/qgis_pointsymbol.png)
+![single symbol for points](/methods-in-spatial-research-fa2021/tutorials/assets/qgis_pointsymbol.png)
 
 You'll see a few readymade symbol options displayed under "Favorites". Try changing the symbol to "dot green" and click Apply to see changes.
 
@@ -185,7 +185,7 @@ Set "Stroke Style" to "No Pen", change the units drop-down in the Size row to "M
 
 Once you're satisfied with the appearance of your layer, click OK.
 
-![tree symbology changed](/methods-in-spatial-research-sp2021/tutorials/assets/qgis_pointsymbolcustom.png)
+![tree symbology changed](/methods-in-spatial-research-fa2021/tutorials/assets/qgis_pointsymbolcustom.png)
 
 ### Qualitative or Categorical Symbology
 
@@ -201,15 +201,15 @@ QGIS can automatically generate a range of colors to use in the layer display, b
 
 Finally, expand the "Layer Rendering" options at the bottom of the window. Set Opacity to ~70%. Click OK. The age of buildings on the map is now visualized, and the transparency allows us to compare the present-day building layer with the historical map.
 
-![map layers with graduated building symbology](/methods-in-spatial-research-sp2021/tutorials/assets/qgis_graduatedsymbology.png)
+![map layers with graduated building symbology](/methods-in-spatial-research-fa2021/tutorials/assets/qgis_graduatedsymbology.png)
 
 Finally, let's give some transparency to the NYPL raster layer as well so it can be compared with the present-day map tiles layer. For raster data, this is set under Layer Properties > Symbology.
 
-![difference between historic and present-day map](/methods-in-spatial-research-sp2021/tutorials/assets/qgis_rastertransparency.png)
+![difference between historic and present-day map](/methods-in-spatial-research-fa2021/tutorials/assets/qgis_rastertransparency.png)
 
 Pan around the map to find some places where the present-day map layers differ from the historic map.
 
-![difference between historic and present-day map](/methods-in-spatial-research-sp2021/tutorials/assets/qgis_rastercomparison.png)
+![difference between historic and present-day map](/methods-in-spatial-research-fa2021/tutorials/assets/qgis_rastercomparison.png)
 
 Remember to **Save** your project when finished.
 
