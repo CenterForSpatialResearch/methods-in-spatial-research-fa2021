@@ -4,7 +4,8 @@ title: Syllabus
 order: 1
 ---
 
-![sample maps](/methods-in-spatial-research-fa2021/public/header_img_alt.png)
+![sample maps](/methods-in-spatial-research-fa2021//tutorials/assets/header_img_alt.png)
+
 From left:  
 [Dennis Wood. 2011. “Everything Sings: Maps for a Narrative Atlas” via Places Journal](https://placesjournal.org/article/everything-sings-maps-for-a-narrative-atlas/?cn-reloaded=1); 
 Hans Haacke *Shapolsky et al. Manhattan Real Estate Holdings, a Real-Time Social System, as of May 1, 1971*. 1971; [Folder. *Italian Limes*. 2014](http://www.italianlimes.net)
