@@ -269,7 +269,7 @@ Prepare the point dataset you wish to use, use QGIS to export your chosen data i
 
 Save the geojson file of points that you plan to use in the `data` folder you have just created.
 
-The instructions below use the dataset of Harlem street trees that you were introduced to in tutorial 1 as an example. It is available in the class [data folder](https://drive.google.com/drive/folders/1IVjKSGSpNVmGB6r6zkiWuKoeryMfxZow).
+The instructions below use the dataset of Harlem street trees that you were introduced to in tutorial 1 as an example. It is available in the class [data folder](https://drive.google.com/drive/u/1/folders/1fkhgGbLHCYxxi5IteZWo6b_MLs2k3Bqp).
 
 To add your chosen point dataset to your map you will need to do three things:
 - load the dataset into your map object
@@ -322,7 +322,7 @@ Next we will add a **polygon** layer.
 
 Save the geojson file of polygons that you plan to use in the `data` folder you have just created.
 
-The instructions below use the dataset of Harlem buildings that you were introduced to in tutorial 1 as an example. It is available in the class [data folder](https://drive.google.com/drive/folders/1IVjKSGSpNVmGB6r6zkiWuKoeryMfxZow).
+The instructions below use the dataset of Harlem buildings that you were introduced to in tutorial 1 as an example. It is available in the class [data folder](https://drive.google.com/drive/u/1/folders/1fPpmxXXal1q5CPgdC8qQLxX974ytPmJl).
 
 We will repeat the steps above that we used for the points:
 - load the dataset into your map object

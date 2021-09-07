@@ -59,7 +59,7 @@ After completing the course participants will:
 
 ## Weekly Schedule, Readings, & Assignments
 All course tutorials and assignments will be posted [here](https://centerforspatialresearch.github.io/methods-in-spatial-research-fa2021/) on the course website.
-All readings will be posted on the course [Google Drive folder]https://drive.google.com/drive/folders/1fPpmxXXal1q5CPgdC8qQLxX974ytPmJl?usp=sharing) or made available via hyperlink below. 
+All readings will be posted on the course [Google Drive folder](https://drive.google.com/drive/u/1/folders/1fPpmxXXal1q5CPgdC8qQLxX974ytPmJl) or made available via hyperlink below. 
 
 ### Week 1 | 9/10 | Introduction to Critical GIS + Spatial Data Types
 #### In class
@@ -123,7 +123,7 @@ Williams, Sarah, Jacqueline Klopp, Daniel Orwa, Peter Waiganjo, and Adam White. 
 
 <!-- class plan:
  -->
-Baics, Gergely, and Leah Meisterlin. “Zoning Before Zoning: Land Use and Density in Mid-Nineteenth-Century New York City.” 2016. Available [here on google drive.](https://drive.google.com/drive/u/1/folders/1fuB3PT-GVv_fD2SafuBjp241b37lDz_6)
+Baics, Gergely, and Leah Meisterlin. “Zoning Before Zoning: Land Use and Density in Mid-Nineteenth-Century New York City.” 2016. Available [here on google drive.](https://drive.google.com/drive/u/1/folders/1fPpmxXXal1q5CPgdC8qQLxX974ytPmJl)
 
 - This is an interdisciplinary paper with insights about both the history of land use in New York City and new methods for uncovering such histories with GIS. The link between these two aspects of the paper is really key and helpful, I think, as an illustration of how to develop spatial projects. They discuss three different sets of methods about three different urban land use phenomena. If you need to skim this piece read the introduction/conclusion and then pick at at least one of these three to focus on.
 

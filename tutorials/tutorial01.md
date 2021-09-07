@@ -17,7 +17,7 @@ Visit [this page](https://qgis.org/en/site/forusers/download.html) and download 
 
 Since this series of tutorials is set up as a set of exercises around a common collection of data, you'll want to set up a **project folder** before getting started. Create a folder on your computer where you will save all of your assignments and data for this class.  
 
-Download the 'Shared_Data' folder from the [workshop google drive](https://drive.google.com/open?id=1nOxjAfenbfmzo7-m6WHVHfGW7fsBt39r). Place it in your project folder for this class. Also create a folder labeled 'My_Data' within the project folder -- this is where you will store the data you create and/or download for the course assignments.  
+Download the 'Shared_Data' folder from the [workshop google drive](https://drive.google.com/drive/u/1/folders/1fPpmxXXal1q5CPgdC8qQLxX974ytPmJl). Place it in your project folder for this class. Also create a folder labeled 'My_Data' within the project folder -- this is where you will store the data you create and/or download for the course assignments.  
 
 ## The QGIS Interface
 
