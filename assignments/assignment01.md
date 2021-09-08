@@ -6,7 +6,7 @@ order: 9
 
 ## Critical Cartography Through Intentional Re/Misuse
 
-### Due: 1/29
+### Due: 9/24
 
 
 *"Data are always collected for a specific purpose, by a combination of people, technology, money, commerce, and government."* (Kurgan 2013, 35)
@@ -49,7 +49,7 @@ Find two digital spatial datasets about a place (that is **not** New York City) 
 
 - Upload your map:
   - as a pdf to Canvas
-  - add it to the pin-up Google Slides presentation for 1/29 in the course Google Drive folder
+  - add it to the pin-up Google Slides presentation for 9/24 in the course Google Drive folder
 
 ### Starting points/guidance
 

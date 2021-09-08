@@ -1,12 +1,12 @@
----
+<!-- ---
 layout: page
 title: Assignment 3
 order: 11 
----
+--- -->
 
 ## Selective Digitization
 
-### Due: 2/12
+### Due: 10/8
 
 ### What
 
@@ -15,7 +15,7 @@ Research and obtain a scanned map, georeference it, and then digitize selected f
 ### Requirements 
 
 - Your final work must be a designed map composition with two maps (your georeferenced map and your new map of selectively digitized features) on a single slide with a 16:9 aspect ratio (1920x1080 pixels).
-- You are encouraged to select one of the map examples discussed thus far during class (either in [lecture slides](https://drive.google.com/open?id=1tQHHcbWB65EVjiqt-9ajyd5sVMHPuzls&authuser=db2672%40columbia.edu&usp=drive_fs) or during a [group exercise](https://drive.google.com/open?id=1f39yOn8mfryxkJdiHvaqJ3zQGA8elu47&authuser=db2672%40columbia.edu&usp=drive_fs)) and imitate its graphic style when designing the map of digitized features. To questions about map design from class on 2/5: this is the best way to learn and practice designing beautiful maps.
+- You are encouraged to select one of the map examples discussed thus far during class (either in [lecture slides](https://drive.google.com/open?id=1hfe-0J27vBXeW9y-oFTMd9KTYK48vPxP) or during a [group exercise](https://drive.google.com/open?id=1fvWKWTDh4f3LobTapJL-ZU9y-5k3LPE2)) and imitate its graphic style when designing the map of digitized features. This is the best way to learn and practice designing beautiful maps.
 
 - Your designed map composition must include:
   - title
@@ -30,7 +30,7 @@ Research and obtain a scanned map, georeference it, and then digitize selected f
 
 - Upload your map:
   - as a pdf to Canvas
-  - add it to the pin-up Google Slides presentation for 2/12 in the course Google Drive folder
+  - add it to the pin-up Google Slides presentation for 10/8 in the course Google Drive folder
 
 
 ### Resources

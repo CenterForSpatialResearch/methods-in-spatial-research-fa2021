@@ -6,7 +6,7 @@ order: 12
 
 ## Mapping Remotely
 
-### Due: 2/19
+### Due: 10/15
 
 There are two options for this assignment. Please complete the tutorial relevant to the option you choose. 
 
@@ -14,7 +14,7 @@ There are two options for this assignment. Please complete the tutorial relevant
 
 Create a map using Landsat Satellite imagery that shows land use change over time. Download two images captured by the Landsat 8 satellite of the same location on different dates, import them into QGIS and symbolize with a false color composite that helps to highlight a change in the landscape that is visible in your chosen location.
 
-[Tutorial 5a](/methods-in-spatial-research-sp2021/tutorials/tutorial05/) covers the skills necessary to complete this assignment.
+[Tutorial 5a](/methods-in-spatial-research-fa2021/tutorials/tutorial05/) covers the skills necessary to complete this assignment.
 
 #### Requirements 
 
@@ -50,4 +50,4 @@ Design a layout to present the images on one or more slides (gifs okay here too)
 
 - Upload your map/layout:
   - as a pdf to Canvas
-  - add it to the pin-up Google Slides presentation for 2/19 in the course Google Drive folder
+  - add it to the pin-up Google Slides presentation for 10/15 in the course Google Drive folder

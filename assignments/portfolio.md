@@ -14,7 +14,7 @@ Please assemble your responses to the four assignments from this semester into a
 Choose at least two projects to revisit and revise based on feedback from the instructor and conversations you have had with your peers during pinups in class. Some questions to consider when revising:
 
 - what precedents is the project drawing on?
-    - what are some similar or relevant [precedent projects](/methods-in-spatial-research-sp2021/precedents/) that I can draw from for inspiration/guidance? 
+    - what are some similar or relevant [precedent projects](/methods-in-spatial-research-fa2021/precedents/) that I can draw from for inspiration/guidance? 
 - what is the core argument or narrative? 
     - how might I make the subject/perspective/argument of this map more clear?  
     - how might I make the graphic approach more coherent? more related to the subject of the map?
@@ -27,7 +27,7 @@ Choose at least two projects to revisit and revise based on feedback from the in
 
 Assemble your final maps into a single document with a designed cover page. You may choose to title your atlas if you would like. 
 
-Please include a thoughtful but (very) concise (1-3 sentence) description of each map. You may include this as an annotation on the same page; as text on a table of contents or index page; or as text on a facing page alongside each map. Please indicate which maps you have updated in some way in your final document.
+Please include a thoughtful but (very) concise (1-3 sentence) description of each map. You may include this as an annotation on the same page; as text on a table of contents or index page; or as text on a facing page alongside each map. In your final document, please indicate which maps you have updated.
 
-Upload your portfolio/mini-atlas to Courseworks as a PDF by **3/5**.
+Upload your portfolio/mini-atlas to Courseworks as a PDF by **10/22**.
 
