@@ -113,7 +113,7 @@ h1, h2, h3, h4, h5, h6 {
 .masthead-title small {
   font-size: 75%;
   font-weight: 400;
-  color: #c0c0c0;
+  color: #797777;
   letter-spacing: 0;
 }
 
@@ -154,7 +154,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'IBM Plex Sans', sans-serif;
   /* font-size: .5rem; 15px */
   color: rgba(0, 0, 0);
-  background-color: #202020;
+  background-color: #6db6b6;
   -webkit-transition: all .3s ease-in-out;
           transition: all .3s ease-in-out;
 }

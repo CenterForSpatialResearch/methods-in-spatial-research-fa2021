@@ -15,8 +15,10 @@ order: 9
 
 Find two digital spatial datasets about a place (that is **not** New York City) that are related to a topic that interests you and have some relevance to one another. Create a single map which uses these two datasets together to make an argument that was likely not intended by the original creator(s) of either dataset.
 
+Write a pithy 2 sentence summary of your map's intended argument (think of this as something like gallery text accompanying a work of art). 
 
-### Requirements
+
+### Requirements and considerations
 
 - The place you select must be somewhere that you have lived and/or spent a significant enough amount of time to know something about lived experience there.
 
@@ -27,16 +29,18 @@ Find two digital spatial datasets about a place (that is **not** New York City) 
   - a csv with latitude and longitude coordinates (review tutorial 2 for how to open something like this)
 - if you plan to use raster data you should be looking for something with a '.tif' format or that is called a 'geoTIFF' or 'geoJPG'
 
-- Investigate the origins of your two datasets. Some starting points to cover (at a minimum): who made the data? what is/was the intended use(s) the data? when was the data made? how was it made? 
+- Investigate the origins of your two datasets. Some starting points to cover (at a minimum): who made the data? what is/was the intended use(s) the data? when was the data made? how was it made?  
 
-- Research the appropriate projected coordinate reference system to use for your chosen place
+- Craft an argument through the juxtaposition, overlay, or presentation of the two datasets together in a map -- this argument should be new, and likely not the originally intended use of either dataset.
+
+- Research the appropriate projected coordinate reference system to use for your chosen place, reproject your data and map canvas accordingly (see tutorial 2)
 
 - Consider the role that the title and other map elements can play in assisting you in making your argument clear
 
 ### Format
 
-- Your final map must be a designed map composition on a single slide with a 16:9 aspect ratio. You are encouraged to select one of the map examples discussed on 1/15 and imitate its graphic style. 
-- Your designed map composition must include:
+- Your final map must be a designed map composition on a single slide with a 16:9 aspect ratio. Choose one of the maps we have looked at thus far in class as a visual precedent, imitate some aspect of its graphic style. 
+- Your designed map composition must thoughtfully include:
   - title
   - legend
   - scale bar
@@ -44,12 +48,12 @@ Find two digital spatial datasets about a place (that is **not** New York City) 
   - citations for all data sources 
   - projection used
   - your name
-
+- 
 ### Submission
 
 - Upload your map:
-  - as a pdf to Canvas
-  - add it to the pin-up Google Slides presentation for 9/24 in the course Google Drive folder
+  - as a PDF document to Canvas (the PDF should include your 2 sentence summary on a second page)
+  - add it to the pin-up section for 9/24 in the course Miro board (with your gallery text as an annotation below your map)
 
 ### Starting points/guidance
 
@@ -58,8 +62,9 @@ For sources for spatial datasets see:
 - Local and State Government operated Open Data Portals
 - University Mapping and/or Research Centers. For example:
   - [Eviction Lab. "Eviction Filing Rate & Evictions Rate." Princeton University](https://evictionlab.org/map/)
-  - [Beirut Urban Lab, "Beirut Built Environment Database"](https://www.beiruturbanlab.com/en/Details/561)
+  - [Beirut Urban Lab, "Beirut Built Environment Database"](https://www.beiruturbanlab.com/en/Details/561) 
 
+[This guide](https://www.vam.ac.uk/__data/assets/pdf_file/0009/238077/Gallery-Text-at-the-V-and-A-Ten-Point-Guide-Aug-2013.pdf) to writing clear gallery text from the Victoria & Albert Museum is perhaps helpful in composing your map description. 
 <!-- 
   rubric
   data - has two datasets [2]
