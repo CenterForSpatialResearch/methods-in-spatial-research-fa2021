@@ -166,7 +166,7 @@ Please read 2-3 map-based articles from the New York Times. [A list is included 
 
 ## Requirements
 
-Attendance at all six class sessions is required. You are expected to give engaged and generous participation in class discussions and in critique workshops with your peers. To help prepare reading conversations, each week you will post/pose one discussion question to the class via Canvas by 8am each Friday. 
+Attendance at all six class sessions is required. You are expected to give engaged and generous participation in class discussions and in critique workshops with your peers. To help prepare reading conversations, each week you will post/pose one question for discussion to the class via Canvas by 7am each Friday (or for not early risers by Thursday night).
 
 Skills-focused weekly tutorials are required and will expose you to multiple methods for engaging with spatial data. Tutorials include step by step instructions and are graded on completion (not accuracy).
 
@@ -221,6 +221,8 @@ Learning how to troubleshoot technical issues and locate relevant resources is c
 ## Bibliography
 
 Baics, Gergely, and Leah Meisterlin. “Zoning Before Zoning: Land Use and Density in Mid-Nineteenth-Century New York City.” Annals of the American Association of Geographers 106, no. 5 (September 2, 2016): 1152–75.  
+
+Battle-Baptiste, Whitney, and Britt Rusert, eds. W.E.B. Du Bois’s Data Portraits: Visualizing Black America: The Color Line at the Turn of the Twentieth Century. First edition. [Amherst, Massachusetts] : Hudson, NY: The W.E.B. Du Bois Center at the University of Massachusetts Amherst ; Princeton Architectural Press, 2018.
 
 Corner, James. “The Agency of Mapping.” In Landscape Imagination: Collected Essays of James Corner 1990-2010. New York, UNITED STATES: Princeton Architectural Press, 2014.
 

@@ -11,7 +11,7 @@ This tutorial is meant to introduce QGIS as a tool for working with spatial data
 
 ## Setup
 
-Before starting, you'll need to download and install QGIS. While the tutorials use version 3.10, the current Long Term Release (LTR). You're welcome to experiment with any other 3.* version. Just be aware that your interface may not look exactly the same as the tutorial screenshots.
+Before starting, you'll need to download and install QGIS. While the tutorials use version 3.16, the current Long Term Release (LTR). You're welcome to experiment with any other 3.* version. Just be aware that your interface may not look exactly the same as the tutorial screenshots.
 
 Visit [this page](https://qgis.org/en/site/forusers/download.html) and download the version for your operating system.
 
@@ -77,6 +77,8 @@ Now you should see an entry for Stamen Toner appear under XYZ Tiles when expande
 The data we get from the tileserver is **raster data**. This means the area shown in our map is continuously covered with an even grid of pixel-like **cells**, each one enclosing a discrete unit of geographic space. Each raster cell in the Toner tile set is colored either black or white. Try changing the zoom level of the map using the scroll wheel on your mouse or using the tools in the Zoom toolbar. As we jump between zoom levels, the tile server sends down new raster tiles with varying spatial resolutions; when we zoom in, each cell represents a smaller and smaller portion of the territory.
 
 ![raster tileserver zoom levels](/methods-in-spatial-research-fa2021/tutorials/assets/raster_tileserverzoom.png)
+
+One note about this type of data source: tiles from a map tileserver can be helpful for providing context, but for final maps it can be limiting if used as a base map. Generally it is best to create your own basemap using other sources, either 
 
 ### Raster Layers from TIFF
 
@@ -167,7 +169,7 @@ At any given time, the features selected in the attribute table and the map view
 
 ## Changing the Appearance of Data in the Map
 
-We'll discuss map symbology in more detail later in the workshop, but for now, we'll walk through a few simple changes to the appearance of the four layers in your map. First, we will change the default symbol used to visualize the street trees layer. Second, we'll will assign colors to each building polygon based on a field in its attribute table. Finally we'll learn to change layer transparency settings to better show relationships between layers through superimposition.
+We'll discuss map symbology in more detail later in the course, but for now, we'll walk through a few simple changes to the appearance of the four layers in your map. First, we will change the default symbol used to visualize the street trees layer. Second, we'll will assign colors to each building polygon based on a field in its attribute table. Finally we'll learn to change layer transparency settings to better show relationships between layers through superimposition.
 
 In QGIS, the appearance of each layer is controlled through the Layer Properties dialogue box, which you can access by right-clicking on the layer name in the Layers Panel and selecting "Properties".
 
@@ -218,5 +220,6 @@ Please take a screenshot of your finished map and upload it to Canvas under the 
 
 ---
 
-Tutorial by Carsten Rodin, Spring 2020.  
+Tutorial by Carsten Rodin, Spring 2020. Revised by Dare Brawley Fall 2021.
+
 Adapted from materials from [Mapping for the Urban Humanities](https://github.com/CenterForSpatialResearch/mapping_for_the_urban_humanities), taught by Bernadette Baird-Zars, Eric Glass & Leah Meisterlin, Summer 2019.
