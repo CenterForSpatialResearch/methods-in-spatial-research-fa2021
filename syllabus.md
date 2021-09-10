@@ -54,7 +54,7 @@ After completing the course participants will:
 | 3 | 9/24 |   Making Data From Observation & Sensing | [Tutorial 2](/methods-in-spatial-research-fa2021/tutorials/tutorial02/) |  [Assignment 1](/methods-in-spatial-research-fa2021/assignments/assignment01/)  |
 | 4 | 10/1 | Making Data from Archives | [Tutorial 3](/methods-in-spatial-research-fa2021/tutorials/tutorial03/) |  Assignment 2 |
 | 5 | 10/8 |  Making Data from Satellites | [Tutorial 4](/methods-in-spatial-research-fa2021/tutorials/tutorial04/) |  Assignment 3 |
-| 6 | 10/15 |  Maps & Narrative / Portfolio Presentations | [Tutorial 5a](/methods-in-spatial-research-fa2021/tutorials/tutorial05/) or [Tutorial 5b](/methods-in-spatial-research-fa2021/tutorials/tutorial05b/) |  [Assignment 4](/methods-in-spatial-research-fa2021/assignments/assignment04/) |
+| 6 | 10/15 |  Maps & Narrative | [Tutorial 5a](/methods-in-spatial-research-fa2021/tutorials/tutorial05/) or [Tutorial 5b](/methods-in-spatial-research-fa2021/tutorials/tutorial05b/) |  [Assignment 4](/methods-in-spatial-research-fa2021/assignments/assignment04/) |
 | no class | 10/22 | [Portfolio Due](/methods-in-spatial-research-fa2021/assignments/portfolio/) | |
 
 ## Weekly Schedule, Readings, & Assignments
@@ -87,7 +87,7 @@ what is GIS + spatial data types (slides from NJIT)
 - tutorial issues/troubleshooting
 - lecture on projections (add stuff about cassini ) 
 - finding spatial data share resources -->
-#### Readings
+#### Readings (available on [google drive](https://drive.google.com/drive/u/1/folders/1fPpmxXXal1q5CPgdC8qQLxX974ytPmJl) or via hyperlink)
 
 Corner, James. “The Agency of Mapping.” 2014.
 
@@ -105,7 +105,7 @@ reading discussion
 pin up of inadvertent use assignment -->
 #### Assignment 1 due – Intentional Misuse
 
-#### Readings
+#### Readings (available on [google drive](https://drive.google.com/drive/u/1/folders/1fPpmxXXal1q5CPgdC8qQLxX974ytPmJl) or via hyperlink)
 
 [House, Brian. "Stalking the Smart City." 2019](https://urbanomnibus.net/2019/05/stalking-smart-city/)
 
@@ -119,7 +119,7 @@ Williams, Sarah, Jacqueline Klopp, Daniel Orwa, Peter Waiganjo, and Adam White. 
 
 #### Assignment 2 due – Mapping Observations
 
-#### Readings
+#### Readings (available on [google drive](https://drive.google.com/drive/u/1/folders/1fPpmxXXal1q5CPgdC8qQLxX974ytPmJl) or via hyperlink)
 
 <!-- class plan:
  -->
@@ -140,7 +140,7 @@ Digital Scholarship Lab, University of Richmond. *Mapping Inequality* 2015-ongoi
 
 #### Assignment 3 due – Selective Digitization
 
-#### Readings
+#### Readings (available on [google drive](https://drive.google.com/drive/u/1/folders/1fPpmxXXal1q5CPgdC8qQLxX974ytPmJl) or via hyperlink)
 
 Kurgan, Laura. “Mapping Considered as a Problem of Theory and Practice.” 2013.  
 
@@ -152,7 +152,7 @@ Desimini, Jill, and Charles Waldheim. “Introduction: Projecting the Landscape 
 
 #### Assignment 4 due – Mapping Remotely
 
-#### Readings
+#### Readings (available on [google drive](https://drive.google.com/drive/u/1/folders/1fPpmxXXal1q5CPgdC8qQLxX974ytPmJl) or via hyperlink)
 
 Please watch: [*In Plain Sight.* by Diller Scofidio + Renfro, Laura Kurgan, Robert Gerard Pietrusko with Columbia Center for Spatial Research at the 2018 U.S. Pavilion.](https://dsrny.com/project/in-plain-sight)
 
