@@ -59,7 +59,7 @@ After completing the course participants will:
 
 ## Weekly Schedule, Readings, & Assignments
 All course tutorials and assignments will be posted [here](https://centerforspatialresearch.github.io/methods-in-spatial-research-fa2021/) on the course website.
-All readings will be posted on the course [Google Drive folder](https://drive.google.com/drive/u/1/folders/1fPpmxXXal1q5CPgdC8qQLxX974ytPmJl) or made available via hyperlink below. 
+All readings will be posted on the course [Google Drive folder](https://drive.google.com/drive/u/1/folders/1fPpmxXXal1q5CPgdC8qQLxX974ytPmJl) or made available via hyperlink below. **You must be signed in via Lionmail to access the Google Drive folder** if you have a @barnard.edu email please request access. 
 
 ### Week 1 | 9/10 | Introduction to Critical GIS + Spatial Data Types
 #### In class
