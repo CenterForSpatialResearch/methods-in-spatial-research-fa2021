@@ -170,7 +170,7 @@ Attendance at all six class sessions is required. You are expected to give engag
 
 Skills-focused weekly tutorials are required and will expose you to multiple methods for engaging with spatial data. Tutorials include step by step instructions and are graded on completion (not accuracy).
 
-Weekly map assignments will allow you to apply the skills acquired via tutorials and begin to experiment with creative applications of spatial methods. Five map assignments will be completed over the course of the six week course and as such are intended to be limited in scope; experimental; and geared towards learning and creative engagement rather than demonstrating advanced skills. Assignment descriptions and associated assessment rubrics will be distributed each week. 
+Weekly map assignments will allow you to apply the skills acquired via tutorials and begin to experiment with creative applications of spatial methods. Five map assignments will be completed over the course of the six week course and as such are intended to be limited in scope; experimental; and geared towards learning and creative engagement rather than demonstrating advanced skills. Assignment descriptions and associated assessment rubrics will be distributed each week.  
 
 For the final course session you will assemble your map assignments into a single document/portfolio/atlas.
 
