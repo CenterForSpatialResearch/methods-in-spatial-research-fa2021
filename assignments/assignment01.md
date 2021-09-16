@@ -15,27 +15,28 @@ order: 9
 
 Find two digital spatial datasets about a place (that is **not** New York City) that are related to a topic that interests you and have some relevance to one another. Create a single map which uses these two datasets together to make an argument that was likely not intended by the original creator(s) of either dataset.
 
-Write a pithy 2 sentence summary of your map's intended argument (think of this as something like gallery text accompanying a work of art). 
+Write a pithy 2 sentence summary of your map's intended argument (think of this as something like gallery text that might accompany a work of art).  
 
 
 ### Requirements and considerations
 
 - The place you select must be somewhere that you have lived and/or spent a significant enough amount of time to know something about lived experience there.
 
+- Investigate the origins of your two datasets. Some starting points to cover (at a minimum): who made the data? what is/was the intended use(s) the data? when was the data made? how was it made?  
+
+- Craft an argument through the juxtaposition, overlay, or presentation of the two datasets together in a map. This argument should try to in some way alter, stretch, or subvert the originally intended use of one or both datasets.
+
+- Research the appropriate projected coordinate reference system to use for your chosen place, reproject your data and map canvas accordingly (see tutorial 2)
+
+- Consider the role that the title and other map elements can play in assisting you in making your argument clear
+
 - I suggest working with vector datasets for this assignment (but not required). When looking for vector geospatial data you should be looking for one of these file types:
   - shapefile
   - geojson
   - KML/KMZ
   - a csv with latitude and longitude coordinates (review tutorial 2 for how to open something like this)
-- if you plan to use raster data you should be looking for something with a '.tif' format or that is called a 'geoTIFF' or 'geoJPG'
+- If you plan to use raster data you should be looking for something with a '.tif' format or that is called a 'geoTIFF' or 'geoJPG'
 
-- Investigate the origins of your two datasets. Some starting points to cover (at a minimum): who made the data? what is/was the intended use(s) the data? when was the data made? how was it made?  
-
-- Craft an argument through the juxtaposition, overlay, or presentation of the two datasets together in a map -- this argument should be new, and likely not the originally intended use of either dataset.
-
-- Research the appropriate projected coordinate reference system to use for your chosen place, reproject your data and map canvas accordingly (see tutorial 2)
-
-- Consider the role that the title and other map elements can play in assisting you in making your argument clear
 
 ### Format
 
@@ -64,7 +65,8 @@ For sources for spatial datasets see:
   - [Eviction Lab. "Eviction Filing Rate & Evictions Rate." Princeton University](https://evictionlab.org/map/)
   - [Beirut Urban Lab, "Beirut Built Environment Database"](https://www.beiruturbanlab.com/en/Details/561) 
 
-[This guide](https://www.vam.ac.uk/__data/assets/pdf_file/0009/238077/Gallery-Text-at-the-V-and-A-Ten-Point-Guide-Aug-2013.pdf) to writing clear gallery text from the Victoria & Albert Museum is perhaps helpful in composing your map description. 
+[This guide](https://www.vam.ac.uk/__data/assets/pdf_file/0009/238077/Gallery-Text-at-the-V-and-A-Ten-Point-Guide-Aug-2013.pdf) to writing clear gallery text from the Victoria & Albert Museum is perhaps helpful in composing your map description.  
+
 <!-- 
   rubric
   data - has two datasets [2]
