@@ -4,91 +4,68 @@ title: Tutorial 4
 order: 7
 ---
 
-# Making Data from Archival Sources: Georeferencing and Digitizing
+# Making Data From Observation & Sensing
 
 
-While a huge amount of spatial data is now freely available in digital form, it tends to focus on the present and excludes many of the subjects we may want to take on as mapmakers and researchers. To broaden the reach of what we're able to incorporate in our mappings, we'll often need to turn to archives and in-person field work to collect the necessary information.
+Observation and sensing can be powerful ways to capture spatial qualities that are not already packaged as readily available datasets. In this tutorial, you will learn how to create your own data through observation, using the GPS recievers on phones to capture the latitude and longitude coordinates of points linked to any attribute fields of your choosing. To do so, we will be using [Epicollect 5](https://five.epicollect.net/), a free and easy-to-use web and mobile data-gathering platform. You can access a full user's guide to Epicollect 5 [here](https://docs.epicollect.net/). 
 
-In the first part of this tutorial, we'll learn to create spatial data from scanned paper maps. We'll start by first learning to position a scanned map correctly within the space of our map environment, and then learn to trace the elements it depicts to create new vector features. In the second part, we'll discuss how this same approach can be used to collect data from first-hand observation, by making a 'round trip' from our map project to printed map and back again. Finally, we'll discuss some challenges and benefits arising from the use of digital tools for field data collection.
+For the purposes of this tutorial, we will demonstrate data collection for a project documenting grafitti in Soho, Manhattan during the summer of 2020. 
 
-## Georeferencing Scanned Paper Maps
 
-Remember that in the first tutorial, the scanned map we used had already been retrieved from an archive, scanned, and **georectified** by another mapmaker. Unfortunately, this won't always be the case, so it's helpful to know how to do it ourselves.
+## Setting Up Your EpiCollect 5 Account and Project 
 
-Retrieval and scanning are pretty straightforward - the main requirement here is that you somehow locate a map of interest and obtain a high-quality digital copy (use a flatbed scanner!). But what does it mean for a scanned image to be georectified? Our problem is that even if a newly-created digital image depicts a map, the data contained with the image has no intrinsic spatial properties. The image is just a 2-dimensional grid of different-colored pixels without scale or location. If you're thinking this sounds like raster data, you're on the right track - we just need a way to assign spatial specificity to this grid of pixels so we can treat them as raster **cells**.
+Go to the [Epicollect 5 Website](https://five.epicollect.net/) and click log in on the top right corner. When redirected to the sign in page, use your columbia email to set up your account. 
 
-Assigning that specificity has two parts - first, if we know the **projection** of the map in the scanned image matches the projection of our software map environment, all we need to do is assign scale, rotation and position and each pixel in the image will then line up neatly with a corresponding cell in geographic space. We call this **georeferencing**. If the original map was drawn in a different projection, an additional step is required where the image is **warped** to match the desired projection. **Georectifying** refers to this complete process of scaling, rotating, positioning and warping the scanned image.
+![Epicollect 5 web set-up](/methods-in-spatial-research-fa2021/tutorials/assets/EpiCollect1.png)
 
-Let's open up a copy of the Tutorial 2 map and save it in our project folder as `Tutorial3_MakingData`. We're going to shift our area of focus slightly and create data from a scanned map of Mott Haven in the South Bronx, so you can remove all the layers except the Stamen Toner base map. Zoom out slightly and pan the map across the river to the area shown below.
+Once you have logged in, click **Create Project** from the top menu, and start to fill out the form with essential information describing your project. Keep the access settings to **private**.  
 
-![Tutorial 3 setup](/methods-in-spatial-research-fa2021/tutorials/assets/qgis_tut3start.png)
+![Epicollect 5 project set-up](/methods-in-spatial-research-fa2021/tutorials/assets/EpiCollect2.png)
 
-Also find the `nypl_mott-haven.jpg` file in the Shared_Data folder and take a look. Before we can begin the process of aligning the image with our map environment, we'll also need to activate what QGIS calls its Georeferencer plugin by going to Plugins > Manage and Install Plugins... in the Menu Bar. Type "georeferencer" in the pop-up window's search bar, check the box and click Close.
+Now, you will be redirected to the project dashboard. From the dashboard's left hand menu, you will be able to manage the `Details` of the project, access the **Form Builder**, collaborate with users using **Manage Users**, and access your collected data from **Mapping Data**, among other things. First we will create the form that will define what data we are trying to collect. 
 
-![Activate georeferencer plugin](/methods-in-spatial-research-fa2021/tutorials/assets/qgis_activate-georeferencer.png)
+Click on the **Form Builder** tab, and you will be redirected to a the page below. Here is where you will be specifying the fields in the attribute table of the dataset you are creating. Notice that the options on the left define what **types** of data you can collect. The most important thing to remember is you always need a **Location** tab on your form: this capture latitude and logitude coordinates of your location through GPS, and will allow you to later export your data. 
 
-Maps of New York City from the 20th century will pretty much always use what we call the "New York State Plane" projection, which is also likely to work well for earlier surveyed maps. Change the projection of your map environment to "NAD83 / New York Long Island (ftUS)" or `EPSG:2263` via the projection icon in the Status Bar or through Project Properties.
+Now drag and drop elements from the list to build your form, defining the elements for each as you go along. For the street art project, we will include the following elements: (1) **Text** to indicate the name of the store, (2) **Dropdown** to identify whether the street art is a mural or a detail (poster, sticker, etc), (3) **Location** to identify coordinates, (3) **Photo** to allow a photo of the street art, (4) **Text** to record additional information. After you are done, make sure to **Save Project**.
 
-![Activate georeferencer plugin](/methods-in-spatial-research-fa2021/tutorials/assets/qgis_stateplane-projection.png)
+![Epicollect 5 form builder](/methods-in-spatial-research-fa2021/tutorials/assets/EpiCollect3.png)
 
-Finally, you can launch the Georeferencer via the menu bar under Raster > Georeferencer. A new window should appear. Click the "Add Raster" button at the upper left corner, and choose `nypl_mott-haven.jpg` from the file picker. Select the same `EPSG:2263` projection when prompted.
+You can build the form to cater to the needs of your specific project. For further documentation, see the EpiCollect5 [formbuilder page](https://docs.epicollect.net/formbuilder/build-your-questionnaire). Once your done building your form, you can start collecting data using your phone!
 
-The Georeferencer works by having you pick corresponding points on both the scanned image and the main qgis map environment. Since this workflow relies on switching back and forth between two windows, it's a good idea to place them side-by-side on your screen and try to adjust the orientation (and rotation) of your map environment to match the scan like so:
+## Collecting Data with EpiCollect Mobile App 
 
-![Georeferencing setup](/methods-in-spatial-research-fa2021/tutorials/assets/qgis_georeference-setup.png)
+Now, using your phone, download the EpiCollect 5 Mobile App. You can check Android and iOS compatability [here](https://docs.epicollect.net/mobile-application/mobile-application). 
 
-Next click the green "Start Georeferencing" button and fill out the Transformation Settings window as shown, setting the output path to your "My_Data" folder:
+Log in to your account using the same email you used on the desktop application. Then, you should be redirected to your Projects, and your form should appear. Click on your project, and now you can start collecting data using **Add Entry**. 
 
-![qgis georeferencing settings](/methods-in-spatial-research-fa2021/tutorials/assets/qgis_georeference-transformation-settings.png)
+For each entry, which corresponds to a seperate observation on the ground, in our case, an individual mural, you will have to fill in all the fields you built with your form. Specifically for the **Location** entry, after clicking **Update Location**, make sure that the accuracy does not exceed about 200. If your accuracy is something like 1500, click **Update Location** again to capture a more accurate reading. 
 
-You may have already noticed but there are some pretty substantial differences between the scanned map and the present-day version. One of the challenges in georeferencing historical maps is identifying with confidence which map elements can be trusted to align properly with their contemporary counterparts. Luckily for us, the New York City street grid is relatively constant so let's start there.
+Once you are done with your fieldwork, collecting all your entries, to click **Upload Now** and go through uploading all data types untill you get the message **All entries successfully uploaded**. 
 
-In the Georeferencing window, use the "Add Point" tool on the toolbar (look for a small yellow star) to place a point on the scanned map. You'll be prompted to "Enter Map Coordinates" but you can use the "From map canvas" button to pick a corresponding point in your map environment. When you click OK, you'll see a new entry in the "GCP Table" and a red point will appear on your reference location in both the main Map Panel and the Georeferencer.
+![Epicollect 5 mobile application](/methods-in-spatial-research-fa2021/tutorials/assets/EpiCollect4.png)
 
-Repeat this process until you have at least four reference points established (more is better!). Try to achieve a relatively even distribution of points across the space of the scanned map. If you're unsure of a point once it's been selected, you adjust its position with the Move GCP Point tool or simply delete it.
+Now, all your entries can be accessed and downloaded from the desktop application, to which we will return. 
 
-![Activate georeferencer plugin](/methods-in-spatial-research-fa2021/tutorials/assets/qgis_georeference-pts.png)
+## Accessing data from Epicollect 5 Desktop 
 
-Once you have enough points set, click the "Start Georeferencing" button again and a georeferenced raster version of your scanned map will be created and added to the project. Note that the plugin also provides a toolbar button and menu item to "Save GCP Points" - if you have several versions of the same paper map (scanned at the same resolution) you can use this functionality to recycle georeferencing settings each time you import a new sheet.
+Now, back to [EpiCollect Desktop](https://five.epicollect.net/). Navigate to my project, and click on your project. After you have uploaded data, you will be able to access `Details`, which will allow you to return and edit the formbuilder and other project settings, or **View Data**, where you can explore the dataset you've constrcted. Click **View Data**, which will allow you to explore your data as a **Table**, where you can view edit, and delete entries using the icons corresponding to each entry. 
 
-You can check your results by adjusting the transparency of the new layer like we did in Tutorial 1. Getting a good result can be time-consuming, but you can usually get something decent without too much work.
+![Epicollect 5 table](/methods-in-spatial-research-fa2021/tutorials/assets/EpiCollect5.png)
 
-![results](/methods-in-spatial-research-fa2021/tutorials/assets/qgis_georeference-result.png)
+Or, you can explore your project as a **Map**, where you can begin to explore spatial trends in the data. 
 
-## Digitizing Vector Features from a Georectified Map
+![Epicollect 5 map](/methods-in-spatial-research-fa2021/tutorials/assets/EpiCollect6.png)
 
-Next we'll look at how to capture individual features based on our scanned, georectified map (now present in our project as a raster layer). We call this process **digitizing**.
+Lastly, you can `Download` your data as a `.csv` or `.JSON` file. Download it as a `.csv` and you will be ready to import it into QGIS, following steps in [tutorial 2](https://centerforspatialresearch.github.io//methods-in-spatial-research-fa2021/tutorials/tutorial02/). 
 
-Start by turning the layer opacity back to 100%. Next, make sure you have the Digitizing Toolbar present somewhere in your interface. It looks like this:
+![Epicollect 5 download](/methods-in-spatial-research-fa2021/tutorials/assets/EpiCollect7.png)
 
-![results](/methods-in-spatial-research-fa2021/tutorials/assets/qgis_digitizing-toolbar.png)
 
-Creating new features one-by-one can be very time-consuming, but often it's the only way to get the data you need. Here we'll go through the basic steps needed to create new data in this way - you'll then be able to practice these new skills as you start collecting data for the final project.
+**Tutorial Deliverable:** 
 
-The first step in creating a new dataset is to make a new vector layer for your features to live in. From the Menu Bar, choose "Layer > Create Layer > New Shapefile Layer...". You'll be prompted for a filename, data type and projection for the dataset as a whole, followed by a panel where you can specify the attribute fields you want in the dataset. For our exercise, we'll digitize a few of the buildings on the historic maps using a data structure like this: 
-
-![results](/methods-in-spatial-research-fa2021/tutorials/assets/qgis_digitize-newlayer.png)
-
-Note that the path to the new shapefile is in the My_Data folder, we're using a Polygon data type with text fields for a `name` and `note` for each feature. When you click OK, the new empty layer will be created and added to your project.  
-
-Now, click on the newly created layer to activate it and then click the "Toggle Editing" button in the Digitizing Toolbar (look for a yellow pencil). Notice that the "Add Polygon Feature" tool becomes available now that you're in **edit mode**.
-
-Zoom in so that one of the buildings on the scanned map takes up most of the screen, select the Add Polygon Feature tool and begin clicking points on the map to draw the polygon. You'll see a preview of the polygon show up in red as you draw. Once all points are selected, right-click anywhere on the map to finish drawing. You'll see a dialog appear where you'll be able to enter attribute information for the feature, which will be created when you click OK.
-
-![new feature](/methods-in-spatial-research-fa2021/tutorials/assets/qgis_digitize-newfeature.png)
-
-You can create as many features as needed by repeating this process. It's good practice to periodically "Save Layer Edits" in the Digitizing Toolbar. When you're done, click the Toggle Editing button again to save any outstanding edits and exit edit mode. Following the general pattern where QGIS operates on linked data, every time you save edits, the shapefile you created above will be updated directly. If you were using a remote data source, each "Save Layer Edits" operation would post these changes to the database.
-
-One last feature worth mentioning that can help with the digitizing process is QGIS's Snapping Options. Access these from the Menu Bar under Project > Snapping Options. The settings here will allow you to specify where you want your cursor to 'snap' when picking points in the digitizer. The options panel will let you turn snapping on or off, which layers should trigger snaps, which kind of snapping to apply (vertex, segment or both - intersections are a separate option to the right) and a distance tolerance in either map units or screen units. Experiment with these options, sometimes they can be extremely helpful.
-
-![new feature](/methods-in-spatial-research-fa2021/tutorials/assets/qgis_digitized-bldgs.png)
-
-### Tutorial Deliverable: 
-
-Upload a screenshot of your georeferenced map + digitized buildings to Canvas.
+There is not a separate tutorial deliverable for this week -- you will just need to use what you learned here to complete [Assignment 2](/methods-in-spatial-research-fa2021/assignments/assignment02/)
 
 
 ---
 
-Tutorial by Carsten Rodin, Spring 2020.  
-Adapted from materials from [Mapping for the Urban Humanities](https://github.com/CenterForSpatialResearch/mapping_for_the_urban_humanities), taught by Bernadette Baird-Zars, Eric Glass & Leah Meisterlin, Summer 2019.
+Tutorial by Nadine Fattaleh, Spring 2021. 

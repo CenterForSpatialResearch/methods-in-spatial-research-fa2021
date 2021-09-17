@@ -51,8 +51,8 @@ After completing the course participants will:
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 1 | 9/10 | Introduction to Critical GIS + Spatial Data Types |  |   |
 | 2 | 9/17 |  Cartographic Projections + Mapping Existing Datasets | [Tutorial 1](/methods-in-spatial-research-fa2021/tutorials/tutorial01/) |    |
-| 3 | 9/24 |   Making Data From Observation & Sensing | [Tutorial 2](/methods-in-spatial-research-fa2021/tutorials/tutorial02/) |  [Assignment 1](/methods-in-spatial-research-fa2021/assignments/assignment01/)  |
-| 4 | 10/1 | Making Data from Archives | [Tutorial 3](/methods-in-spatial-research-fa2021/tutorials/tutorial03/) |  Assignment 2 |
+| 3 | 9/24 |   Making Data from Archives | [Tutorial 2](/methods-in-spatial-research-fa2021/tutorials/tutorial02/) |  [Assignment 1](/methods-in-spatial-research-fa2021/assignments/assignment01/)  |
+| 4 | 10/1 | Making Data From Observation & Sensing | [Tutorial 3](/methods-in-spatial-research-fa2021/tutorials/tutorial03/) |  Assignment 2 |
 | 5 | 10/8 |  Making Data from Satellites | [Tutorial 4](/methods-in-spatial-research-fa2021/tutorials/tutorial04/) |  Assignment 3 |
 | 6 | 10/15 |  Maps & Narrative | [Tutorial 5a](/methods-in-spatial-research-fa2021/tutorials/tutorial05/) or [Tutorial 5b](/methods-in-spatial-research-fa2021/tutorials/tutorial05b/) |  Assignment 4 |
 | no class | 10/22 | [Portfolio Due](/methods-in-spatial-research-fa2021/assignments/portfolio/) | |
@@ -97,7 +97,7 @@ Couclelis, Helen. “People Manipulate Objects (but Cultivate Fields): Beyond th
 
 Optional: Rankin, William. "Introduction Territory and the Mapping Sciences" in *After The Map: Cartography, Navigation, and the Transformation of Territory in the Twentieth Century*. Chicago: University of Chicago Press. 2016.  [available online via CLIO [here](https://clio.columbia.edu/catalog/12582759?counter=1)]
 
-### Week 3 | 9/24 | Making Data From Observation & Sensing
+### Week 3 | 9/24 | Making Data from Archives
 <!-- 
 class plan
 discussion of project examples in small groups. provided examples.
@@ -105,27 +105,14 @@ reading discussion
 pin up of inadvertent use assignment -->
 #### Assignment 1 due – Intentional Misuse
 
-#### Readings (available on [google drive](https://drive.google.com/drive/u/1/folders/1fPpmxXXal1q5CPgdC8qQLxX974ytPmJl) or via hyperlink)
 
-[House, Brian. "Stalking the Smart City." 2019](https://urbanomnibus.net/2019/05/stalking-smart-city/)
+#### Readings (available on [google drive](https://drive.google.com/drive/u/1/folders/1fPpmxXXal1q5CPgdC8qQLxX974ytPmJl) or via hyperlink) 
 
-[Folder. *Italian Limes*. 2014](http://www.italianlimes.net/)
-
-Ferrari, Marco, Elisa Pasqual, Alessandro Busi, Aaron Gillett. *A Moving Border: Alpine Cartographies of Climate Change* [Selections]. 2019
-
-Williams, Sarah, Jacqueline Klopp, Daniel Orwa, Peter Waiganjo, and Adam White. “Digital Matatus: Using Mobile Technology to Visualize Informality.” 2015.
-
-### Week 4 | 10/1 | Making Data from Archives
-
-#### Assignment 2 due – Mapping Observations
-
-#### Readings (available on [google drive](https://drive.google.com/drive/u/1/folders/1fPpmxXXal1q5CPgdC8qQLxX974ytPmJl) or via hyperlink)
-
-<!-- class plan:
- -->
-Baics, Gergely, and Leah Meisterlin. “Zoning Before Zoning: Land Use and Density in Mid-Nineteenth-Century New York City.” 2016. Available [here on google drive.](https://drive.google.com/drive/u/1/folders/1fPpmxXXal1q5CPgdC8qQLxX974ytPmJl)
+Baics, Gergely, and Leah Meisterlin. “Zoning Before Zoning: Land Use and Density in Mid-Nineteenth-Century New York City.” 2016.
 
 - This is an interdisciplinary paper with insights about both the history of land use in New York City and new methods for uncovering such histories with GIS. The link between these two aspects of the paper is really key and helpful, I think, as an illustration of how to develop spatial projects. They discuss three different sets of methods about three different urban land use phenomena. If you need to skim this piece read the introduction/conclusion and then pick at at least one of these three to focus on.
+
+Battle-Baptiste, Whitney, and Britt Rusert, eds. W.E.B. Du Bois’s Data Portraits: Visualizing Black America: The Color Line at the Turn of the Twentieth Century. First edition. Princeton Architectural Press, 2018. [selections]  
 
 Majd Al-shihabi, Ahmad Barclay, et al. *Palestine Open Maps.* 2018-ongoing
 
@@ -136,9 +123,29 @@ Digital Scholarship Lab, University of Richmond. *Mapping Inequality* 2015-ongoi
 
 - explore the [interactive maps](https://dsl.richmond.edu/panorama/redlining/) & be sure to read [the introduction](https://dsl.richmond.edu/panorama/redlining/#loc=5/39.1/-94.58&text=intro)
 
+
+
+### Week 4 | 10/1 | Making Data From Observation & Sensing
+
+#### Assignment 2 due – Selective Digitization
+
+
+<!-- class plan:
+ -->
+#### Readings (available on [google drive](https://drive.google.com/drive/u/1/folders/1fPpmxXXal1q5CPgdC8qQLxX974ytPmJl) or via hyperlink)
+
+[House, Brian. "Stalking the Smart City." 2019](https://urbanomnibus.net/2019/05/stalking-smart-city/)
+
+[Folder. *Italian Limes*. 2014](http://www.italianlimes.net/)
+
+Ferrari, Marco, Elisa Pasqual, Alessandro Busi, Aaron Gillett. *A Moving Border: Alpine Cartographies of Climate Change* [Selections]. 2019
+
+Williams, Sarah, Jacqueline Klopp, Daniel Orwa, Peter Waiganjo, and Adam White. “Digital Matatus: Using Mobile Technology to Visualize Informality.” 2015.
+
+
 ### Week 5 | 10/8 | Making Data from Satellites
 
-#### Assignment 3 due – Selective Digitization
+#### Assignment 3 due – Mapping Observations
 
 #### Readings (available on [google drive](https://drive.google.com/drive/u/1/folders/1fPpmxXXal1q5CPgdC8qQLxX974ytPmJl) or via hyperlink)
 
