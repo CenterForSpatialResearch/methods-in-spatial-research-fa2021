@@ -65,6 +65,8 @@ For sources for spatial datasets see:
   - [Eviction Lab. "Eviction Filing Rate & Evictions Rate." Princeton University](https://evictionlab.org/map/)
   - [Beirut Urban Lab, "Beirut Built Environment Database"](https://www.beiruturbanlab.com/en/Details/561) 
 
+A general rule of thumb for finding data: think about who would have the motivation (and the money/resources) to create the dataset you are looking for then try to research that entity.  
+
 [This guide](https://www.vam.ac.uk/__data/assets/pdf_file/0009/238077/Gallery-Text-at-the-V-and-A-Ten-Point-Guide-Aug-2013.pdf) to writing clear gallery text from the Victoria & Albert Museum is perhaps helpful in composing your map description.  
 
 <!-- 
