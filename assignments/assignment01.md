@@ -28,7 +28,9 @@ Write a pithy 2 sentence summary of your map's intended argument (think of this 
 
 - Research the appropriate projected coordinate reference system to use for your chosen place, reproject your data and map canvas accordingly (see tutorial 2)
 
-- Consider the role that the title and other map elements can play in assisting you in making your argument clear
+- Consider the role that the title and other map elements can play in assisting you in making your argument clear.  
+
+- As you design you map choose one of the projects we have looked at thus far in class as a visual precedent (see GoogleDrive for slides, and the Miro board), and imitate some aspect of its graphic style.  
 
 - I suggest working with vector datasets for this assignment (but not required). When looking for vector geospatial data you should be looking for one of these file types:
   - shapefile
@@ -40,7 +42,7 @@ Write a pithy 2 sentence summary of your map's intended argument (think of this 
 
 ### Format
 
-- Your final map must be a designed map composition on a single slide with a 16:9 aspect ratio. Choose one of the maps we have looked at thus far in class as a visual precedent, imitate some aspect of its graphic style. 
+- Your final map must be a designed map composition on a single slide with a 16:9 aspect ratio. 
 - Your designed map composition must thoughtfully include:
   - title
   - legend
