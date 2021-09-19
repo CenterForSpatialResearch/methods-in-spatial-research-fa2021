@@ -112,7 +112,10 @@ Baics, Gergely, and Leah Meisterlin. “Zoning Before Zoning: Land Use and Densi
 
 - This is an interdisciplinary paper with insights about both the history of land use in New York City and new methods for uncovering such histories with GIS. The link between these two aspects of the paper is really key and helpful, I think, as an illustration of how to develop spatial projects. They discuss three different sets of methods about three different urban land use phenomena. If you need to skim this piece read the introduction/conclusion and then pick at at least one of these three to focus on.
 
-Battle-Baptiste, Whitney, and Britt Rusert, eds. W.E.B. Du Bois’s Data Portraits: Visualizing Black America: The Color Line at the Turn of the Twentieth Century. First edition. Princeton Architectural Press, 2018. [selections]  
+Wilson, Mabel. "The Cartography of W.E.B. Du Bois’s Color Line" in *W.E.B. Du Bois’s Data Portraits: Visualizing Black America: The Color Line at the Turn of the Twentieth Century.* Battle-Baptiste, Whitney, and Britt Rusert, eds. Princeton Architectural Press, 2018. [selections]  
+
+-  This is a short essay on the significance and context of the cartographic work of W.E.B. Du Bois, a scholar and civil rights leader working in the United States in the early-mid 20th century. This essay discusses a historical mapping project, but unlike the other readings/projects for this week, it does not re-draw or further develop GIS methods/data from that historical material. Instead a key point this article brings to our conversations in class is the importance of interrogating historical/archival materials in relation to the context in which they were created.  
+- n.b. Scan includes required short essay by Mabel Wilson as well as optional introduction to the scanned plates and a selection of a few of the maps/data visualizations that were included in the exhibition discussed.  
 
 Majd Al-shihabi, Ahmad Barclay, et al. *Palestine Open Maps.* 2018-ongoing
 
