@@ -110,7 +110,7 @@ pin up of inadvertent use assignment -->
 
 Baics, Gergely, and Leah Meisterlin. “Zoning Before Zoning: Land Use and Density in Mid-Nineteenth-Century New York City.” 2016.
 
-- This is an interdisciplinary paper with insights about both the history of land use in New York City and new methods for uncovering such histories with GIS. The link between these two aspects of the paper is really key and helpful, I think, as an illustration of how to develop spatial projects. They discuss three different sets of methods about three different urban land use phenomena. If you need to skim this piece read the introduction/conclusion and then pick at at least one of these three to focus on.
+- This is an interdisciplinary paper with insights about both the history of land use in New York City and new methods for uncovering such histories with GIS. The link between these two aspects of the paper is really key and helpful, I think, as an illustration of how to develop spatial projects. They discuss three different sets of methods about three different urban land use phenomena. If you need to skim this piece read the introduction/conclusion and then pick at one of the sections on methods to focus on.
 
 Wilson, Mabel. "The Cartography of W.E.B. Du Bois’s Color Line" in *W.E.B. Du Bois’s Data Portraits: Visualizing Black America: The Color Line at the Turn of the Twentieth Century.* Battle-Baptiste, Whitney, and Britt Rusert, eds. Princeton Architectural Press, 2018. [selections]  
 
