@@ -23,7 +23,7 @@ office hours by appointment, sign up [here](https://calendly.com/db2672/20min))
 
 TA: Adam Vosburgh 
 akv2118 (at) columbia.edu  
-office hours: TBA (email for an appointment)  
+office hours by appointment, sign up [here](https://calendly.com/akv2118/sr-methods-office-hours-w-adam?month=2021-09)
 
 ## Description
 
