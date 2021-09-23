@@ -52,6 +52,9 @@ order: 2
 
 - [University of Richmond Digital Scholarship Lab](https://dsl.richmond.edu/)
 
+- Price Fishback et al. "New Evidence on Redlining by Federal Housing Programs in the 1930s". September 2021. Working paper. [New research complicating the narrative on HOLC (aka "redlining") maps.](https://www.nber.org/papers/w29244?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg12). Uses data from University of Richmond.
+
+
 
 ## Making Data From Observation & Sensing
 
