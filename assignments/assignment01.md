@@ -30,7 +30,7 @@ Write a pithy 2 sentence summary of your map's intended argument (think of this 
 
 - Consider the role that the title and other map elements can play in assisting you in making your argument clear.  
 
-- As you design you map choose one of the projects we have looked at thus far in class as a visual precedent (see GoogleDrive for slides, and the Miro board), and imitate some aspect of its graphic style.  
+- As you design your map choose one of the projects we have looked at thus far in class as a visual precedent (see GoogleDrive for slides, and the Miro board), and imitate some aspect of its graphic style.  
 
 - I suggest working with vector datasets for this assignment (but not required). When looking for vector geospatial data you should be looking for one of these file types:
   - shapefile

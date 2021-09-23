@@ -52,7 +52,7 @@ After completing the course participants will:
 | 1 | 9/10 | Introduction to Critical GIS + Spatial Data Types |  |   |
 | 2 | 9/17 |  Cartographic Projections + Mapping Existing Datasets | [Tutorial 1](/methods-in-spatial-research-fa2021/tutorials/tutorial01/) |    |
 | 3 | 9/24 |   Making Data from Archives | [Tutorial 2](/methods-in-spatial-research-fa2021/tutorials/tutorial02/) |  [Assignment 1](/methods-in-spatial-research-fa2021/assignments/assignment01/)  |
-| 4 | 10/1 | Making Data From Observation & Sensing | [Tutorial 3](/methods-in-spatial-research-fa2021/tutorials/tutorial03/) |  Assignment 2 |
+| 4 | 10/1 | Making Data From Observation & Sensing | [Tutorial 3](/methods-in-spatial-research-fa2021/tutorials/tutorial03/) |  [Assignment 2](/methods-in-spatial-research-fa2021/assignments/assignment02/)  |
 | 5 | 10/8 |  Making Data from Satellites | [Tutorial 4](/methods-in-spatial-research-fa2021/tutorials/tutorial04/) |  Assignment 3 |
 | 6 | 10/15 |  Maps & Narrative | [Tutorial 5a](/methods-in-spatial-research-fa2021/tutorials/tutorial05/) or [Tutorial 5b](/methods-in-spatial-research-fa2021/tutorials/tutorial05b/) |  Assignment 4 |
 | no class | 10/22 | [Portfolio Due](/methods-in-spatial-research-fa2021/assignments/portfolio/) | |
@@ -118,9 +118,10 @@ Wilson, Mabel. "The Cartography of W.E.B. Du Bois’s Color Line" in *W.E.B. Du 
 - n.b. Scan includes required short essay by Mabel Wilson as well as optional introduction to the scanned plates and a selection of a few of the maps/data visualizations that were included in the exhibition discussed.  
 
 
-Majd Al-shihabi, Ahmad Barclay, et al. *Palestine Open Maps.* 2018-ongoing
+Majd Al-shihabi, Ahmad Barclay, et al. *Palestine Open Maps.* 2018-ongoing  
 **oh no! the website for this project appears to be down, an all too common problem for under-resourced web-based mapping projects. we won't discuss in class.**
-- explore the platform [here](https://palopenmaps.org/) 
+- explore the platform [here](https://palopenmaps.org/)  
+
 <!-- 
 - read [this short blog post](https://blogs.bl.uk/digital-scholarship/2019/05/palestine-open-maps-mapathon.html) written by the lead researcher of the project  -->
 
