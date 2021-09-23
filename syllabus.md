@@ -117,10 +117,12 @@ Wilson, Mabel. "The Cartography of W.E.B. Du Bois’s Color Line" in *W.E.B. Du 
 -  This is a short essay on the significance and context of the cartographic work of W.E.B. Du Bois, a scholar and civil rights leader working in the United States in the early-mid 20th century. This essay discusses a historical mapping project, but unlike the other readings/projects for this week, it does not re-draw or further develop GIS methods/data from that historical material. Instead a key point this article brings to our conversations in class is the importance of interrogating historical/archival materials in relation to the context in which they were created.  
 - n.b. Scan includes required short essay by Mabel Wilson as well as optional introduction to the scanned plates and a selection of a few of the maps/data visualizations that were included in the exhibition discussed.  
 
-Majd Al-shihabi, Ahmad Barclay, et al. *Palestine Open Maps.* 2018-ongoing
 
-- explore the platform [here](https://palopenmaps.org/)
-- read [this short blog post](https://blogs.bl.uk/digital-scholarship/2019/05/palestine-open-maps-mapathon.html) written by the lead researcher of the project 
+Majd Al-shihabi, Ahmad Barclay, et al. *Palestine Open Maps.* 2018-ongoing
+**oh no! the website for this project appears to be down, an all too common problem for under-resourced web-based mapping projects. we won't discuss in class.**
+- explore the platform [here](https://palopenmaps.org/) 
+<!-- 
+- read [this short blog post](https://blogs.bl.uk/digital-scholarship/2019/05/palestine-open-maps-mapathon.html) written by the lead researcher of the project  -->
 
 Digital Scholarship Lab, University of Richmond. *Mapping Inequality* 2015-ongoing
 
