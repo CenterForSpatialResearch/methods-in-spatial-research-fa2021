@@ -40,6 +40,19 @@ order: 2
 
 - [Hubley, Jill. “Languages of NYC.”](https://www.jillhubley.com/project/nyclanguages/)
 
+
+## Making Data from Archives
+- [Visualizing Palestine, “Palestine Open Maps,”](https://palopenmaps.org/) 
+
+- [Marshall, Bob, Brian Jacbos and Al Shaw. "Losing Ground," ProPublica and The Lens. August 28, 2014](https://projects.propublica.org/louisiana/) 
+
+- [David Rumsey Map Collection.](https://www.davidrumsey.com) Large collection of scanned archival maps. 
+
+- [Stanford Spatial History Project](https://web.stanford.edu/group/spatialhistory/cgi-bin/site/gallery.php)
+
+- [University of Richmond Digital Scholarship Lab](https://dsl.richmond.edu/)
+
+
 ## Making Data From Observation & Sensing
 
 - [Wood, Jeremy. *Data Cloud*. 2008/2009.
@@ -69,13 +82,6 @@ Beatrixpark, Amsterdam. Site specific artwork.](http://www.jeremywood.net/artwor
 - [Svarre, Birgitte and Jan Gehl. *How to Study Public Life*. 2013. ebook via Columbia Library](https://clio.columbia.edu/catalog/14098130?counter=1)
 
 - [MIT Sensable City Lab. "Trash Track." 2008](https://senseable.mit.edu/trashtrack/how-it-works.php?id=3)
-
-## Making Data from Archives
-- [Visualizing Palestine, “Palestine Open Maps,”](https://palopenmaps.org/) 
-
-- [Marshall, Bob, Brian Jacbos and Al Shaw. "Losing Ground," ProPublica and The Lens. August 28, 2014](https://projects.propublica.org/louisiana/) 
-
-- [David Rumsey Map Collection.](https://www.davidrumsey.com) Large collection of scanned archival maps. 
 
 ## Making Data from Satellites 
 
