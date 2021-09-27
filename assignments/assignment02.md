@@ -12,6 +12,8 @@ order: 10
 
 Research and obtain a scanned map, georeference it, and then digitize selected features in order to produce a new map that has a different focus or narrative.  
 
+Write a pithy 2 sentence summary of your map’s intended argument (think of this as something like gallery text that might accompany a work of art).
+
 ### Requirements
 
 - Your final work must be a designed map composition in a single image with a 16:9 aspect ratio (1920x1080 pixels).
@@ -29,8 +31,8 @@ Research and obtain a scanned map, georeference it, and then digitize selected f
 ### Submission
 
 - Upload your designed map & a copy of the scanned map you georeferenced:
-  - as a single pdf to Canvas
-  - add your map & the original scanned map to the pin-up section for 10/1 in the course Miro board
+  - as a single pdf to Canvas (the PDF should include your 2 sentence summary on a third page))
+  - add your map & the original scanned map (as well as your 2 sentence summary) to the pin-up section for 10/1 in the course Miro board
 
 
 ### Resources
