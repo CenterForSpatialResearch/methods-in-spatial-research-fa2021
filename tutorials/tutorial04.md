@@ -36,9 +36,9 @@ You can build the form to cater to the needs of your specific project. For furth
 
 Now, using your phone, download the EpiCollect 5 Mobile App. You can check Android and iOS compatability [here](https://docs.epicollect.net/mobile-application/mobile-application). 
 
-Log in to your account using the same email you used on the desktop application. Then, you should be redirected to your Projects, and your form should appear. Click on your project, and now you can start collecting data using **Add Entry**. 
+Log in to your account using the same email you used on the desktop application. Then, you should be redirected to your Projects, and your form should appear. Click on your project, and now you can start collecting data using **Add Entry**. **Note:** if your project doesn't automatically appear click on the `+ Add Project` then search for the name of your project. 
 
-For each entry, which corresponds to a seperate observation on the ground, in our case, an individual mural, you will have to fill in all the fields you built with your form. Specifically for the **Location** entry, after clicking **Update Location**, make sure that the accuracy does not exceed about 200. If your accuracy is something like 1500, click **Update Location** again to capture a more accurate reading. 
+For each entry, which corresponds to a seperate observation on the ground you will have to fill in all the fields you built with your form. Specifically for the **Location** entry, after clicking **Update Location**, make sure that the accuracy does not exceed about 200. If your accuracy is something like 1500, click **Update Location** again to capture a more accurate reading. 
 
 Once you are done with your fieldwork, collecting all your entries, to click **Upload Now** and go through uploading all data types untill you get the message **All entries successfully uploaded**. 
 
@@ -63,9 +63,9 @@ Lastly, you can `Download` your data as a `.csv` or `.JSON` file. Download it as
 
 **Tutorial Deliverable:** 
 
-There is not a separate tutorial deliverable for this week -- you will just need to use what you learned here to complete [Assignment 2](/methods-in-spatial-research-fa2021/assignments/assignment02/)
+There is not a separate tutorial deliverable for this week -- you will just need to use what you learned here to complete [Assignment 3](/methods-in-spatial-research-fa2021/assignments/assignment03/)
 
 
 ---
 
-Tutorial by Nadine Fattaleh, Spring 2021. 
+Tutorial by Nadine Fattaleh, for Spring 2021 Methods in Spatial Research. 
