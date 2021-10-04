@@ -53,7 +53,7 @@ After completing the course participants will:
 | 2 | 9/17 |  Cartographic Projections + Mapping Existing Datasets | [Tutorial 1](/methods-in-spatial-research-fa2021/tutorials/tutorial01/) |    |
 | 3 | 9/24 |   Making Data from Archives | [Tutorial 2](/methods-in-spatial-research-fa2021/tutorials/tutorial02/) |  [Assignment 1](/methods-in-spatial-research-fa2021/assignments/assignment01/)  |
 | 4 | 10/1 | Making Data From Observation & Sensing | [Tutorial 3](/methods-in-spatial-research-fa2021/tutorials/tutorial03/) |  [Assignment 2](/methods-in-spatial-research-fa2021/assignments/assignment02/)  |
-| 5 | 10/8 |  Making Data from Satellites | [Tutorial 4](/methods-in-spatial-research-fa2021/tutorials/tutorial04/) |  Assignment 3 |
+| 5 | 10/8 |  Making Data from Satellites | [Tutorial 4](/methods-in-spatial-research-fa2021/tutorials/tutorial04/) |  [Assignment 3](/methods-in-spatial-research-fa2021/assignments/assignment03/)|
 | 6 | 10/15 |  Maps & Narrative | [Tutorial 5a](/methods-in-spatial-research-fa2021/tutorials/tutorial05/) or [Tutorial 5b](/methods-in-spatial-research-fa2021/tutorials/tutorial05b/) |  Assignment 4 |
 | no class | 10/22 | [Portfolio Due](/methods-in-spatial-research-fa2021/assignments/portfolio/) | |
 
@@ -151,7 +151,7 @@ Williams, Sarah, Jacqueline Klopp, Daniel Orwa, Peter Waiganjo, and Adam White. 
 
 ### Week 5 | 10/8 | Making Data from Satellites
 
-#### Assignment 3 due – Mapping Observations
+#### Assignment 3 due – [Mapping Observations](/methods-in-spatial-research-fa2021/assignments/assignment03/)
 
 #### Readings (available on [google drive](https://drive.google.com/drive/u/1/folders/1fPpmxXXal1q5CPgdC8qQLxX974ytPmJl) or via hyperlink)
 
