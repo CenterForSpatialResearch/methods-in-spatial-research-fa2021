@@ -54,7 +54,7 @@ After completing the course participants will:
 | 3 | 9/24 |   Making Data from Archives | [Tutorial 2](/methods-in-spatial-research-fa2021/tutorials/tutorial02/) |  [Assignment 1](/methods-in-spatial-research-fa2021/assignments/assignment01/)  |
 | 4 | 10/1 | Making Data From Observation & Sensing | [Tutorial 3](/methods-in-spatial-research-fa2021/tutorials/tutorial03/) |  [Assignment 2](/methods-in-spatial-research-fa2021/assignments/assignment02/)  |
 | 5 | 10/8 |  Making Data from Satellites | [Tutorial 4](/methods-in-spatial-research-fa2021/tutorials/tutorial04/) |  [Assignment 3](/methods-in-spatial-research-fa2021/assignments/assignment03/)|
-| 6 | 10/15 |  Maps & Narrative | [Tutorial 5a](/methods-in-spatial-research-fa2021/tutorials/tutorial05/) or [Tutorial 5b](/methods-in-spatial-research-fa2021/tutorials/tutorial05b/) |  Assignment 4 |
+| 6 | 10/15 |  Maps & Narrative | [Tutorial 5a](/methods-in-spatial-research-fa2021/tutorials/tutorial05/) or [Tutorial 5b](/methods-in-spatial-research-fa2021/tutorials/tutorial05b/) |  [Assignment 4]((/methods-in-spatial-research-fa2021/assignments/assignment04/)) |
 | no class | 10/22 | [Portfolio Due](/methods-in-spatial-research-fa2021/assignments/portfolio/) | |
 
 ## Weekly Schedule, Readings, & Assignments

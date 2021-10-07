@@ -1,8 +1,8 @@
-<!-- ---
+---
 layout: page
 title: Assignment 4
 order: 12
---- -->
+---
 
 ## Mapping Remotely
 
@@ -12,13 +12,13 @@ There are two options for this assignment. Please complete the tutorial relevant
 
 ### Option A - Mapping Change with Landsat Satellite Imagery
 
-Create a map using Landsat Satellite imagery that shows land use change over time. Download two images captured by the Landsat 8 satellite of the same location on different dates, import them into QGIS and symbolize with a false color composite that helps to highlight a change in the landscape that is visible in your chosen location.
+Create a map using Landsat Satellite imagery that shows land use change over time. Download two (or more!) images captured by the Landsat 8 satellite of the same location on different dates, import them into QGIS and symbolize with a false color composite that helps to highlight a change in the landscape that is visible in your chosen location.
 
 [Tutorial 5a](/methods-in-spatial-research-fa2021/tutorials/tutorial05/) covers the skills necessary to complete this assignment.
 
 #### Requirements 
 
-- Your final work must be a designed map composition on a single slide with a 16:9 aspect ratio (1920x1080 pixels).
+- Your final work must be a designed map composition (gifs aremokay here too) 
 
 - Your designed map composition must include:
   - title
@@ -37,7 +37,7 @@ Design a layout to present the images on one or more slides (gifs okay here too)
 
 #### Requirements 
 
-- Your final work must be a designed  composition on one or more slides with a 16:9 aspect ratio (1920x1080 pixels).
+- Your final work must be a designed composition on one or more slides with a 16:9 aspect ratio (1920x1080 pixels).
 - The aerial images you will download are not georeferenced and do not have embedded geographic information, thus you should plan to design the layout of your final work outside of QGIS -- for those not familiar with Adobe Creative Suite a presentation software of your choosing (google slides, keynote etc) is a good option.
 
 - Your designed map composition must include:
