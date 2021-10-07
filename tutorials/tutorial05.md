@@ -49,7 +49,9 @@ This exercise will walk through how to create false color composites using multi
 
 Landsat satellite data is freely available and can be downloaded via a number of different websites. We will be using the USGS website: [EarthExplorer](https://earthexplorer.usgs.gov/)
 
-These are instructions for how to download Landsat satellite imagery via USGS for future reference, and for use in the assignment. For this tutorial landsat scenes were already provided to you, so scroll down to the next section.  
+These are instructions for how to download Landsat satellite imagery via USGS for future reference, and for use in the assignment. These instructions are provided to assist you in obtaining your own satellite imagery for the assignment. 
+
+But first complete this tutorial to get familiar with the steps involved -- for the tutorial landsat scenes have been provided to you, so scroll down to the next section **Creating False Color Composites**.  
 
 1. Select `Register` and then follow steps to **Register for an EarthExplorer account**
 2. Use the map to zoom in to your area of interest 
@@ -95,43 +97,47 @@ A new toolbar and dock should have been added to your QGIS window. The are highl
 
 ### Load Landsat data and create a "Band Set" 
 
-Open the Semi Automatic Classification Plugin menu by clicking the icon circled in yellow above. 
+Download the `landsat_corrected` folder from the [class Google Drive folder.](https://drive.google.com/open?id=1fUm2aAGJeh5UX54u6rBBY8wcWjYBCLdH)  
+
+Save the folder within the `Shared_data`>`raster` directory you have for this class.  
+
+In QGIS launch a new project and then select `Layer`>`add layer`>`Add raster layer`. Navigate to the `Shared_data`>`raster`>`landsat_corrected` folder in the source menu. Then choose the folder containing the September 17 Landsat image bundle `LC08_L1TP_005047_20170917_20170929_01_T1`. Select bands 1-7 in the folder (all of the files with a .tif ending) And click Open. Then click Add. Then Close the `Add raster layer` menu. You should now have 7 landsat bands in your layers panel.  
+
+Open the Semi Automatic Classification Plugin menu by clicking the icon circled in yellow above.  
+
+Load the landsat bands you have added to your project by clicking the `refresh list` button circled in magenta below. Then select all of the bands listed in the Single band list and click the `add bands to Band list` button circled below in yellow. The Semi Automatic Classification Plugin should now look like the image below, with the seven landsat bands we will use added to Band set 1.  
+
 ![Preprocessing]
 
-Click on the `Open a file` button (circled above) and navigate to the directory containing the Landsat bands you want to work with for this example it is `Shared_data`>`raster`>`landsat`. And then first choose the folder containing the October 3 Landsat image bundle `LC08_L1TP_005047_20171003_20171014_01_T1`).
+Make sure to select `Landsat 8 OLI [bands 1,2,3,4,5,6,7]` as the Wavelength quick settings and make sure that the wavelength unit matches what is listed above.  
 
-Select bands 2-7 in the folder (all of the files with a .tif ending) And click Open.  
-
-You should just have bands 2, 3, 4, 5, 6, 7 in this list. Make sure you have no other bands.
-
-Select `Landsat 8` for the Quick Wavelength settings. This automatically loads in information about the wavelengths of electromagnetic spectrum captured by each landsat band.
-
-Your dialog box options should look like this:
-
-![Bandlist]
+This automatically loads in information about the wavelengths of electromagnetic spectrum captured by each landsat band.  
 
 Close the SCP menu. 
 
-Then locate the `RGB` option in the SCP Working toolbar. 
+Then locate the `RGB` option in the SCP Working toolbar.  
 ![RGB]
 
-This tool tells the program which band it should map to the red, green, or blue band of a standard RBG image. Setting band 3 and Red, band 2, as Blue, and band 1 as Green will show a `natural color` image whose colors are similar to what we are familiar with. This combination is similar to what we see with the naked eye because it uses the bands that capture electromagnetic wavelengths in the visible light spectrum.
+This tool tells the program which band it should map to the red, green, or blue band of a standard RBG image. Setting band 4 and Red, band 3, as Green, and band 2 as Red will show a `natural color` image whose colors are similar to what we are familiar with. This combination is similar to what we see with the naked eye because it uses the bands that capture electromagnetic wavelengths in the visible light spectrum. In other words for the Landsat 8 Satellite bands 4, 3, and 2 capture the wavelengths on the electromagetic spectrum that produce what our eyes see as red, green, and blue light  (see [this explanation](https://www.usgs.gov/faqs/what-are-best-landsat-spectral-bands-use-my-research?qt-news_science_products=0#qt-news_science_products) of the wavelengths of electromagetic radiaion detected by each landsat band). 
 
-Note: to make the image appear more saturated zoom in to a bright-ish area of the image and then click the `Local cumulative cut stretch` button (circled in yellow above)
+Note: to make the image appear more saturated zoom in to a bright-ish area of the image and then click the `Local cumulative cut stretch` button (circled in black above)
 
-Further information about band combinations and the kinds of phenomena they make visible can be found [here](/methods-in-spatial-research-fa2021/tutorials/assets/resources/LandsatBandInformation_Berkeley.pdf). Take a look through this document and try out combinations that are interesting to you.
+Further information about band combinations and the kinds of phenomena they make visible can be found [in this overview guide from the USGS about the different features of each band](https://www.usgs.gov/faqs/what-are-best-landsat-spectral-bands-use-my-research?qt-news_science_products=0#qt-news_science_products) and [this guide](https://www.usgs.gov/faqs/what-are-band-designations-landsat-satellites?qt-news_science_products=0#qt-news_science_products) to the different bands in each generation of Landsat. This guide provides an overview of [different common band combinations](https://gisgeography.com/landsat-8-bands-combinations/)Take a look through these resources and test out combinations that are interesting to you.
 
-A color composite using `3-2-1` for a 'natural color' image:  
+A color composite using `4-3-2` for a 'natural color' image:  
 
 ![natural]
 
-The combination of bands `4-5-3` is particularly well suited for looking at land/water boundaries as well as levels of water saturation.
 
-![435]
-
-Or to view a 'near infrared' image set the RGB band values to `4-3-2`. This type of 'false color composite' image is similar to infrared aerial photography and highlights vegetation in shades of red. Try these and others.
+Or to view a 'near infrared' image set the RGB band values to `5-4-3`. This type of 'false color composite' image is similar to infrared aerial photography and highlights vegetation in shades of red. Try these and others.
 
 ![infrared]
+
+
+The combination of bands `6-4-2` is particularly well suited for looking at agriculture -- vegetation appears as shades of green and urban areas or bare soil appear as brown/magenta.
+
+![agriculture]
+
 
 ### Export false color composites 
 To export a false color composite as a GeoTiff image (that freezes the given false color composite you've chosen) right click on the `virtual band set` in the layers menu. Select `save as` and choose `rendered image` as your output mode, and select a location and file name to save the image. This false color composite is now saved, you no longer have access to the raw data of each of the Landsat bands that originally comprised it but you can work with it as a base map or for other uses or bring it into a different program.
@@ -164,6 +170,6 @@ Tutorial by Dare Brawley, Spring 2021
 
 [RGB]: /methods-in-spatial-research-fa2021/tutorials/assets/tutorial05/satellite05.png
 [natural]: /methods-in-spatial-research-fa2021/tutorials/assets/tutorial05/satellite09.png
-[435]: /methods-in-spatial-research-fa2021/tutorials/assets/tutorial05/satellite14.png
+[agriculture]: /methods-in-spatial-research-fa2021/tutorials/assets/tutorial05/satellite14.png
 [infrared]: /methods-in-spatial-research-fa2021/tutorials/assets/tutorial05/satellite10.png
 [download]: /methods-in-spatial-research-fa2021/tutorials/assets/tutorial05/satellite003.png
