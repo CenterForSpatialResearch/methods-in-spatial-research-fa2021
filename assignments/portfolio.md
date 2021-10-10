@@ -1,17 +1,17 @@
-<!-- ---
+---
 layout: page
-title: Assignment 5 -  Portfolio    
+title: Assignment 5 - Atlas    
 order: 13
---- -->
+---
 
-## Mapping Portfolio/Mini-Atlas
+## Mini-Atlas (or Mapping Portfolio)
 
-### Due: 3/10/2021
+### Due: 10/22/2021
 
 
-Please assemble your responses to the four assignments from this semester into a single portfolio -- a mini-atlas -- of your mapping work thus far.
+Please assemble your responses to the four assignments from this semester into a mini-atlas of your mapping work thus far.
 
-Choose at least two projects to revisit and revise based on feedback from the instructor and conversations you have had with your peers during pinups in class. Some questions to consider when revising:
+Choose at least **two projects** to **revise** based on feedback from the instructor and conversations you have had with your peers during pinups in class. Some questions to consider when revising:
 
 - what precedents is the project drawing on?
     - what are some similar or relevant [precedent projects](/methods-in-spatial-research-fa2021/precedents/) that I can draw from for inspiration/guidance? 
@@ -25,9 +25,9 @@ Choose at least two projects to revisit and revise based on feedback from the in
     - what role does each element of the map play in conveying the argument/narrative of the map? are there any unnecessary elements?  
 
 
-Assemble your final maps into a single document with a designed cover page. You may choose to title your atlas if you would like. 
+Assemble your final maps into a single designed PDF booklet (with a designed cover page). You may choose to title your atlas if you would like.  
 
-Please include a thoughtful but (very) concise (1-3 sentence) description of each map. You may include this as an annotation on the same page; as text on a table of contents or index page; or as text on a facing page alongside each map. In your final document, please indicate which maps you have updated.
+Please include a thoughtful but (very) concise (1-2 sentence) description of each map. You may include this as an annotation on the same page; as text on a table of contents or index page; or as text on a facing page alongside each map. In your final document, please indicate which maps you have updated.
 
 Upload your portfolio/mini-atlas to Courseworks as a PDF by **10/22**.
 
