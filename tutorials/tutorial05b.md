@@ -26,7 +26,7 @@ The outputs are image files (.png) that are not georeferenced and thus are best 
 ## Instructions
 
 ### Prerequisites
-Follow instructions for how to create a Google API key for the Static Maps API [here](https://developers.google.com/maps/documentation/maps-static/get-api-key). 
+Follow instructions for how to create a Google API key for the Static Maps API [here](https://developers.google.com/maps/documentation/maps-static/get-api-key). You must enable billing for your API key in order to run the script, you will not incur any charges for the scale of project outlined in this tutorial. Every Google SKU account is granted $200 per month in credits towards API usage, this translates to being able to download 100,000 images from Google's Static Maps API for free each month. For more information on pricing see [this page](https://developers.google.com/maps/documentation/maps-static/usage-and-billing).
 
 
 ### Method A: Google Colab
