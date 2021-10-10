@@ -161,7 +161,7 @@ Kurgan, Laura. “Mapping Considered as a Problem of Theory and Practice.” 201
 
 <!-- 
 Desimini, Jill, and Charles Waldheim. “Introduction: Projecting the Landscape Imaginary.” 2016. -->
-### Week 6 | 10/15 | Maps & Narrative
+### Week 6 | 10/15 (last day of Session A) | Maps & Narrative
 
 #### Assignment 4 due – Mapping Remotely
 
@@ -179,7 +179,7 @@ Please read these map-based articles from the New York Times:
 
 <!-- Mortenbock & Mooshammer. *Informal Market Worlds* [Selections] -->
 
-### 10/22 | no class | [Mapping Portfolio Due](/methods-in-spatial-research-fa2021/assignments/portfolio/)
+### 10/22 | [Mapping Portfolio Due](/methods-in-spatial-research-fa2021/assignments/portfolio/)
 
 ## Requirements
 
