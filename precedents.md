@@ -133,7 +133,9 @@ Beatrixpark, Amsterdam. Site specific artwork.](http://www.jeremywood.net/artwor
 
 ### New York Times Graphics Department map-forward stories: 
 
-  - See [2020: The Year in Visual Stories and Graphics](https://www.nytimes.com/interactive/2020/12/30/us/2020-year-in-graphics.html?searchResultPosition=2) for a compiled list of visual stories from 2020. Not all of these are map based, but many are. At the bottom of the page are links to similar compilations going back to 2012. 
+  - See [2020: The Year in Visual Stories and Graphics](https://www.nytimes.com/interactive/2020/12/30/us/2020-year-in-graphics.html?searchResultPosition=2) for a compiled list of visual stories from 2020. Not all of these are map based, but many are. At the bottom of the page are links to similar compilations going back to 2012.
+
+  - [Serkez, Yaryna. “Opinion | Every Place Under Threat.” The New York Times, October 2, 2020, sec. Opinion.](https://www.nytimes.com/interactive/2020/10/02/opinion/amazon-under-threat.html)
 
   - [Wallace, Tim. 2016. “The Two Americas of 2016.” The New York Times, November 16, 2016.](https://www.nytimes.com/interactive/2016/11/16/us/politics/the-two-americas-of-2016.html)
 
@@ -142,7 +144,7 @@ Beatrixpark, Amsterdam. Site specific artwork.](http://www.jeremywood.net/artwor
   - [Almukhtar, Sarah, and Josh Williams. 2018. “Trump Wants a Border Wall. See What’s in Place Already.” The New York Times, February 5, 2018, sec. U.S.](https://www.nytimes.com/interactive/2018/02/05/us/border-wall.html)
 
   - [Fountain, Henry. 2017. “Alaska’s Permafrost Is Thawing.” The New York Times, August 23, 2017, sec. Climate.](https://www.nytimes.com/interactive/2017/08/23/climate/alaska-permafrost-thawing.html)
-
+  
   - [Gillis, Justin, Jonathan Corum, Evan Grothjan, Graham Roberts, Rumsey Taylor, Derek Watkins, and Jeremy White. 2017. “Miles of Ice Collapsing Into the Sea.” The New York Times, May 18, 2017, sec. Climate.](https://www.nytimes.com/interactive/2017/05/18/climate/antarctica-ice-melt-climate-change.html)
 
   - [Koeze, Ella, Jugal K. Patel, and Anjali Singhvi. 2020. “Where Americans Live Far From the Emergency Room.” The New York Times, April 26, 2020, sec. U.S.](https://www.nytimes.com/interactive/2020/04/26/us/us-hospital-access-coronavirus.html)
