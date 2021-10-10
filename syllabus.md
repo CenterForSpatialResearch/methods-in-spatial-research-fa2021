@@ -171,11 +171,11 @@ Please watch: [*In Plain Sight.* by Diller Scofidio + Renfro, Laura Kurgan, Robe
 
 Please read these map-based articles from the New York Times:
 
-- [Serkez, Yaryna. “Opinion | Every Place Under Threat.” The New York Times, October 2, 2020, sec. Opinion.](https://www.nytimes.com/interactive/2020/10/02/opinion/amazon-under-threat.html)
+- [Serkez, Yaryna. “Opinion: Every Place Under Threat.” The New York Times, October 2, 2020, sec. Opinion.](https://www.nytimes.com/interactive/2020/10/02/opinion/amazon-under-threat.html)
 - [Plumer, Brad, Nadja Popovich, and Brian Palmer. 2020. “How Decades of Racist Housing Policy Left Neighborhoods Sweltering.” The New York Times, August 31, 2020, sec. Climate.](https://www.nytimes.com/interactive/2020/08/24/climate/racism-redlining-cities-global-warming.html)  
 
     - across these articles and when watching *In Plain Sight* try to focus on identifying the core narrative, and then on discerning *how* the narrative is being conveyed via the maps and other media used
-    - There is a longer list of New York Times map-based articles included at the end of the precedents page [here](/methods-in-spatial-research-fa2021/precedents/#new-york-times-graphics-department-map-forward-stories), please feel free to read several of these also (if you choose to read an NYT map article that is not already on cited on the list, please include a link in your discussion question post on Canvas).  
+    - *n.b.* there is a longer list of New York Times map-based articles included at the end of the precedents page [here](/methods-in-spatial-research-fa2021/precedents/#new-york-times-graphics-department-map-forward-stories), please feel free to read several of these in addition to the two listed above (if you choose to read an NYT map article that is not already on cited on the precedents page list, please include a link to the article in your discussion question post on Canvas).  
 
 <!-- Mortenbock & Mooshammer. *Informal Market Worlds* [Selections] -->
 
