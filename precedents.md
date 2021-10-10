@@ -147,7 +147,7 @@ Beatrixpark, Amsterdam. Site specific artwork.](http://www.jeremywood.net/artwor
 
   - [Koeze, Ella, Jugal K. Patel, and Anjali Singhvi. 2020. “Where Americans Live Far From the Emergency Room.” The New York Times, April 26, 2020, sec. U.S.](https://www.nytimes.com/interactive/2020/04/26/us/us-hospital-access-coronavirus.html)
 
-  - [Plumer, Brad, Nadja Popovich, and Brian Palmer. 2020. “How Decades of Racist Housing Policy Left Neighborhoods Sweltering.” The New York Times, August 31, 2020, sec. Climate.](https://www.nytimes.com/interactive/2020/08/24/climate/racism-redlining-cities-global-warming.html.)
+  - [Plumer, Brad, Nadja Popovich, and Brian Palmer. 2020. “How Decades of Racist Housing Policy Left Neighborhoods Sweltering.” The New York Times, August 31, 2020, sec. Climate.](https://www.nytimes.com/interactive/2020/08/24/climate/racism-redlining-cities-global-warming.html)
 
 
 
