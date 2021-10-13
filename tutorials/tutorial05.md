@@ -72,7 +72,7 @@ But first complete this tutorial to get familiar with the steps involved -- for 
 
 ![download]
 
-13. a zip files will download, unzip it, and save in the working directory you are using for your project.
+13. a compressed file (a file with one of these extensions `.zip` or `.tar.gz`) will download, unzip it and save in the working directory you are using for your project. (If you need help on how to unzip a file see wikihow [here](https://www.wikihow.com/Unzip-a-File)).
 
 ## Creating False Color Composites
 
