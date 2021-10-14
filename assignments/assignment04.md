@@ -35,6 +35,8 @@ Taking inspiration from the work of artist [Josh Begley](https://joshbegley.com/
 
 Design a layout to present the images on one or more slides (gifs okay here too).
 
+[Tutorial 5b](/methods-in-spatial-research-fa2021/tutorials/tutorial05b/) covers the skills necessary to complete this assignment.
+
 #### Requirements 
 
 - Your final work must be a designed composition on one or more slides with a 16:9 aspect ratio (1920x1080 pixels).
