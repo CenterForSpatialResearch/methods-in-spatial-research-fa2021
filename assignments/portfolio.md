@@ -6,7 +6,7 @@ order: 13
 
 ## Mini-Atlas (or Mapping Portfolio)
 
-### Due: 10/22/2021
+### Due: 10/29/2021
 
 
 Please assemble your responses to the four assignments from this semester into a mini-atlas of your mapping work thus far.
@@ -29,5 +29,5 @@ Assemble your final maps into a single designed PDF booklet (with a designed cov
 
 Please include a thoughtful but (very) concise (1-2 sentence) description of each map. You may include this as an annotation on the same page; as text on a table of contents or index page; or as text on a facing page alongside each map. In your final document, please indicate which maps you have updated.
 
-Upload your portfolio/mini-atlas to Courseworks as a PDF by **10/22**.
+Upload your portfolio/mini-atlas to Courseworks as a PDF by **10/29**.
 

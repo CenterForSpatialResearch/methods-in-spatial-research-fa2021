@@ -55,7 +55,7 @@ After completing the course participants will:
 | 4 | 10/1 | Making Data From Observation & Sensing | [Tutorial 3](/methods-in-spatial-research-fa2021/tutorials/tutorial03/) |  [Assignment 2](/methods-in-spatial-research-fa2021/assignments/assignment02/)  |
 | 5 | 10/8 |  Making Data from Satellites | [Tutorial 4](/methods-in-spatial-research-fa2021/tutorials/tutorial04/) |  [Assignment 3](/methods-in-spatial-research-fa2021/assignments/assignment03/)|
 | 6 | 10/15 |  Maps & Narrative | [Tutorial 5a](/methods-in-spatial-research-fa2021/tutorials/tutorial05/) or [Tutorial 5b](/methods-in-spatial-research-fa2021/tutorials/tutorial05b/) |  [Assignment 4]((/methods-in-spatial-research-fa2021/assignments/assignment04/)) |
-| no class | 10/22 | [Portfolio Due](/methods-in-spatial-research-fa2021/assignments/portfolio/) | |
+| no class | 10/29 | [Portfolio Due](/methods-in-spatial-research-fa2021/assignments/portfolio/) | |
 
 ## Weekly Schedule, Readings, & Assignments
 All course tutorials and assignments will be posted [here](https://centerforspatialresearch.github.io/methods-in-spatial-research-fa2021/) on the course website.
@@ -180,7 +180,7 @@ Please read these map-based articles from the New York Times:
 
 <!-- Mortenbock & Mooshammer. *Informal Market Worlds* [Selections] -->
 
-### 10/22 | [Mapping Portfolio Due](/methods-in-spatial-research-fa2021/assignments/portfolio/)
+### 10/29 | [Mapping Portfolio Due](/methods-in-spatial-research-fa2021/assignments/portfolio/)
 
 ## Requirements
 
