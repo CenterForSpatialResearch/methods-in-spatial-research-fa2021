@@ -119,8 +119,8 @@ When you're satisfied, you can **export** your layout as an Image, SVG, or PDF b
 ### Deliverable: 
 Save your map layout as a PDF and upload it to Canvas for tutorial 2
 
-
+<!-- 
 ---
 
 Tutorial by Carsten Rodin, Spring 2020.  
-Adapted from materials from [Mapping for the Urban Humanities](https://github.com/CenterForSpatialResearch/mapping_for_the_urban_humanities), taught by Bernadette Baird-Zars, Eric Glass & Leah Meisterlin, Summer 2019.
+Adapted from materials from [Mapping for the Urban Humanities](https://github.com/CenterForSpatialResearch/mapping_for_the_urban_humanities), taught by Bernadette Baird-Zars, Eric Glass & Leah Meisterlin, Summer 2019. -->

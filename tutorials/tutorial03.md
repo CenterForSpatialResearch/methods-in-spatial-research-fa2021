@@ -86,9 +86,9 @@ One last feature worth mentioning that can help with the digitizing process is Q
 ### Tutorial Deliverable: 
 
 Upload a screenshot of your georeferenced map + digitized buildings to Canvas.
-
+<!-- 
 
 ---
 
 Tutorial by Carsten Rodin, Spring 2020.  
-Adapted from materials from [Mapping for the Urban Humanities](https://github.com/CenterForSpatialResearch/mapping_for_the_urban_humanities), taught by Bernadette Baird-Zars, Eric Glass & Leah Meisterlin, Summer 2019.
+Adapted from materials from [Mapping for the Urban Humanities](https://github.com/CenterForSpatialResearch/mapping_for_the_urban_humanities), taught by Bernadette Baird-Zars, Eric Glass & Leah Meisterlin, Summer 2019. -->

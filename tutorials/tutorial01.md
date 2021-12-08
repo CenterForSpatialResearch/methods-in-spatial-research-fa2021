@@ -217,9 +217,9 @@ Remember to **Save** your project when finished.
 
 ### Deliverable: 
 Please take a screenshot of your finished map and upload it to Canvas under the tutorial 1 assignment.
-
+<!-- 
 ---
 
 Tutorial by Carsten Rodin, Spring 2020. Revised by Dare Brawley Fall 2021.
 
-Adapted from materials from [Mapping for the Urban Humanities](https://github.com/CenterForSpatialResearch/mapping_for_the_urban_humanities), taught by Bernadette Baird-Zars, Eric Glass & Leah Meisterlin, Summer 2019.
+Adapted from materials from [Mapping for the Urban Humanities](https://github.com/CenterForSpatialResearch/mapping_for_the_urban_humanities), taught by Bernadette Baird-Zars, Eric Glass & Leah Meisterlin, Summer 2019. -->

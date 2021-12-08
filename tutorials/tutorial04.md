@@ -65,7 +65,7 @@ Lastly, you can `Download` your data as a `.csv` or `.JSON` file. Download it as
 
 There is not a separate tutorial deliverable for this week -- you will just need to use what you learned here to complete [Assignment 3](/methods-in-spatial-research-fa2021/assignments/assignment03/)
 
-
+<!-- 
 ---
 
-Tutorial by Nadine Fattaleh, for Spring 2021 Methods in Spatial Research. 
+Tutorial by Nadine Fattaleh, for Spring 2021 Methods in Spatial Research.  -->
